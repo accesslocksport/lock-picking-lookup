@@ -46,8 +46,8 @@ def main(page_size=50):
 
         time.sleep(1)
 
-    print(video_ids)
 
+    print(sorted(list(video_ids)))
 
 if __name__ == '__main__':
     main()
