@@ -18,9 +18,10 @@ TITLE_RE = re.compile(f'\[(\d+)\]\s+(.*)')
 
 def guess_manufacturer(title):
     with open('supporting_data.json') as f:
-        manufacturers = json.load(f)['manufacturers']
+        manufacturers = sorted(json.load(f)['manufacturers'], key=len)[::-1]
+        searchable_title = ' ' + ' '.join(re.split('[^\w-]', title.casefold())) + ' '
         for manufacturer in manufacturers:
-            if manufacturer.casefold() in title.casefold():
+            if f' {manufacturer.casefold()} ' in searchable_title:
                 return manufacturer
 
 
@@ -45,7 +46,7 @@ def extract(item):
     }
 
 
-def main(page_size=50, sleep=0.5):
+def main(page_size=50, sleep=0.1):
     dataset = {}
 
     url = 'https://youtube.googleapis.com/youtube/v3/playlistItems'
