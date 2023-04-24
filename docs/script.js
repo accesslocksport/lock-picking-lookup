@@ -1,8 +1,39 @@
-async function loadData () {
-  const response = await fetch('./data/dataset.json')
-  return response.json()
-}
+const search = (function () { // eslint-disable-line no-unused-vars
+  let _dataset = null
+  let _searchTarget = null
 
-loadData().then((data) => {
-  console.log(data.dataset)
-})
+  const loadData = async function () {
+    const response = await fetch('./data/dataset.json')
+    return response.json()
+  }
+
+  const search = function (query) {
+    let results = []
+    if (query.length < 3) {
+      _searchTarget.innerText = results
+      return
+    }
+
+    results = Object.fromEntries(Object.entries(_dataset).filter(([k, v]) => v.shortTitle.indexOf(query) !== -1))
+
+    _searchTarget.innerText = JSON.stringify(results)
+  }
+
+  const init = function (searchInputSelector, resultsListSelector) {
+    _searchTarget = document.querySelector(resultsListSelector)
+
+    loadData().then((data) => {
+      _dataset = data.dataset
+    })
+
+    document
+      .querySelector(searchInputSelector)
+      .addEventListener('keyup', (event) => {
+        search(event.target.value)
+      })
+  }
+
+  return {
+    init
+  }
+})()

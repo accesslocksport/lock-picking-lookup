@@ -4,6 +4,13 @@
     <title></title>
 </head>
 <body>
+    <input type="text" name="search" id="search-input">
+    <div id="search-target"></div>
     <script type="text/javascript" src="script.js"></script>
+    <script>
+      window.onload = (event) => {
+        search.init('#search-input', '#search-target')
+      }
+    </script>
 </body>
 </html>
