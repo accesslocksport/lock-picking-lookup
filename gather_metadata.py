@@ -19,7 +19,7 @@ TITLE_RE = re.compile(f'\[(\d+)\]\s+(.*)')
 def guess_manufacturer(title):
     with open('supporting_data.json') as f:
         manufacturers = sorted(json.load(f)['manufacturers'], key=len)[::-1]
-        searchable_title = ' ' + ' '.join(re.split('[^\w-]', title.casefold())) + ' '
+        searchable_title = ' ' + ' '.join(re.split(r'[^\w\-&]', title.casefold())) + ' '
         for manufacturer in manufacturers:
             if f' {manufacturer.casefold()} ' in searchable_title:
                 return manufacturer
