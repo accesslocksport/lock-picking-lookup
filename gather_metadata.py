@@ -39,7 +39,8 @@ def main(page_size=50, sleep=0.5):
     url = 'https://youtube.googleapis.com/youtube/v3/playlistItems'
     page_token = None
     while True:
-        payload = requests.get(
+        payload = json.loads(
+            requests.get(
                 url,
                 params={
                     'playlistId': PLAYLIST_ID,
@@ -51,7 +52,8 @@ def main(page_size=50, sleep=0.5):
                 headers={
                     'Accept': 'application/json'
                 }
-            ).json()
+            ).text
+        )
 
         for item in payload['items']:
             data = extract(item)
@@ -68,8 +70,8 @@ def main(page_size=50, sleep=0.5):
         sys.stdout.write('.')
         sys.stdout.flush()
 
-    with open('dataset.json', 'w') as df:
-        df.write(json.dumps({'dataset': dataset}, sort_keys=True, indent=2))
+    with open('dataset.json', 'w', encoding='utf-8') as f:
+        json.dump({'dataset': dataset}, f, sort_keys=True, indent=2, ensure_ascii=False)
 
 
 if __name__ == '__main__':
