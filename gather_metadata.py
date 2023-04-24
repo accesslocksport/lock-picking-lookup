@@ -7,7 +7,7 @@ import requests
 
 
 # To get:
-#   - Create Google Cloud project
+#   - Create Google Cloud project in https://console.cloud.google.com/
 #   - Enable the YouTube Data API v3
 #   - Create an API key
 API_KEY = ''
@@ -83,7 +83,7 @@ def main(page_size=50, sleep=0.1):
         sys.stdout.write('.')
         sys.stdout.flush()
 
-    with open('dataset.json', 'w', encoding='utf-8') as f:
+    with open('docs/data/dataset.json', 'w', encoding='utf-8') as f:
         json.dump({'dataset': dataset}, f, sort_keys=True, indent=2, ensure_ascii=False)
 
 
