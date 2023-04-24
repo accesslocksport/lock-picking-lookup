@@ -14,7 +14,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
       return
     }
 
-    results = Object.fromEntries(Object.entries(_dataset).filter(([k, v]) => v.shortTitle.indexOf(query) !== -1))
+    results = Object.fromEntries(Object.entries(_dataset).filter(([k, v]) => v.shortTitle.toLowerCase().includes(query.toLowerCase())))
 
     _searchTarget.innerText = JSON.stringify(results)
   }
