@@ -20,9 +20,8 @@ def guess_manufacturer(title):
     with open('supporting_data.json') as f:
         manufacturers = json.load(f)['manufacturers']
         for manufacturer in manufacturers:
-            for word in title.split(' '):
-                if word.casefold() == manufacturer.casefold():
-                    return manufacturer
+            if manufacturer.casefold() in title.casefold():
+                return manufacturer
 
 
 def extract(item):

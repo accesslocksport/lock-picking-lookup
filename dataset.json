@@ -3,7 +3,7 @@
     "1": {
       "fullTitle": "[1] Ten American Lock Series 1100 Padlocks Picked in a Row",
       "id": "34976SngvrY",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 1,
       "shortTitle": "Ten American Lock Series 1100 Padlocks Picked in a Row",
       "url": "https://www.youtube.com/watch?v=34976SngvrY"
@@ -11,7 +11,7 @@
     "2": {
       "fullTitle": "[2] Two American Lock Series 748s Reviewed, Picked and Gutted",
       "id": "M1hqMgc7Qa4",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 2,
       "shortTitle": "Two American Lock Series 748s Reviewed, Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=M1hqMgc7Qa4"
@@ -59,7 +59,7 @@
     "8": {
       "fullTitle": "[8] Abus D6 Euro Cylinder Picked and Gutted",
       "id": "w-ygMuaoWaU",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 8,
       "shortTitle": "Abus D6 Euro Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=w-ygMuaoWaU"
@@ -67,7 +67,7 @@
     "9": {
       "fullTitle": "[9] Abus D10 SKG** Euro Cylinder Picked and Gutted",
       "id": "Y2-5eXyHsfo",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 9,
       "shortTitle": "Abus D10 SKG** Euro Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=Y2-5eXyHsfo"
@@ -83,7 +83,7 @@
     "11": {
       "fullTitle": "[11] Mul-T-Lock Interactive Picked and Gutted",
       "id": "B95BrkM_Yo0",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 11,
       "shortTitle": "Mul-T-Lock Interactive Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=B95BrkM_Yo0"
@@ -91,7 +91,7 @@
     "12": {
       "fullTitle": "[12] Abus EC75 Dimple Padlock (75/40) Picked",
       "id": "6Pu2gj6TaCg",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 12,
       "shortTitle": "Abus EC75 Dimple Padlock (75/40) Picked",
       "url": "https://www.youtube.com/watch?v=6Pu2gj6TaCg"
@@ -99,7 +99,7 @@
     "13": {
       "fullTitle": "[13] Defective Mul-T-Lock Interactive Blind Picked and Gutted",
       "id": "SA5aTtLNWxs",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 13,
       "shortTitle": "Defective Mul-T-Lock Interactive Blind Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=SA5aTtLNWxs"
@@ -147,7 +147,7 @@
     "19": {
       "fullTitle": "[19] Dom IX KIK Cylinder Picked and Gutted",
       "id": "iZSO9dbSYIc",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 19,
       "shortTitle": "Dom IX KIK Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=iZSO9dbSYIc"
@@ -155,7 +155,7 @@
     "20": {
       "fullTitle": "[20] Kale Kilit 164 SNC Dimple Euro Cylinder Picked and Gutted",
       "id": "SwB7OrKVeJ0",
-      "manufacturer": null,
+      "manufacturer": "Kale Kilit",
       "number": 20,
       "shortTitle": "Kale Kilit 164 SNC Dimple Euro Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=SwB7OrKVeJ0"
@@ -211,7 +211,7 @@
     "27": {
       "fullTitle": "[27] Kaba 8 Picked and Gutted",
       "id": "ZBk9w4bc_b4",
-      "manufacturer": null,
+      "manufacturer": "KABA",
       "number": 27,
       "shortTitle": "Kaba 8 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=ZBk9w4bc_b4"
@@ -235,7 +235,7 @@
     "30": {
       "fullTitle": "[30] Master Lock 220D Melted Open",
       "id": "eega7YRMA6E",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 30,
       "shortTitle": "Master Lock 220D Melted Open",
       "url": "https://www.youtube.com/watch?v=eega7YRMA6E"
@@ -243,7 +243,7 @@
     "31": {
       "fullTitle": "[31] Master Lock #175 Melted Open",
       "id": "2OedbC_fOu0",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 31,
       "shortTitle": "Master Lock #175 Melted Open",
       "url": "https://www.youtube.com/watch?v=2OedbC_fOu0"
@@ -251,7 +251,7 @@
     "32": {
       "fullTitle": "[32] Mul-T-Lock Interactive Cam Lock Picked and Gutted",
       "id": "TpyfweFqEKs",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 32,
       "shortTitle": "Mul-T-Lock Interactive Cam Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=TpyfweFqEKs"
@@ -331,7 +331,7 @@
     "42": {
       "fullTitle": "[42] Abus 92W/65 Shutter Padlock Picked",
       "id": "v9kkJy26PK8",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 42,
       "shortTitle": "Abus 92W/65 Shutter Padlock Picked",
       "url": "https://www.youtube.com/watch?v=v9kkJy26PK8"
@@ -355,7 +355,7 @@
     "45": {
       "fullTitle": "[45] Picking the \"Unpickable\" Abus",
       "id": "KyTh4nRQ6lQ",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 45,
       "shortTitle": "Picking the \"Unpickable\" Abus",
       "url": "https://www.youtube.com/watch?v=KyTh4nRQ6lQ"
@@ -363,7 +363,7 @@
     "46": {
       "fullTitle": "[46] Iseo R8 Core Padlock Picked and Gutted",
       "id": "BGF3JW4rzHQ",
-      "manufacturer": null,
+      "manufacturer": "ISEO",
       "number": 46,
       "shortTitle": "Iseo R8 Core Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=BGF3JW4rzHQ"
@@ -387,7 +387,7 @@
     "49": {
       "fullTitle": "[49] AJ Jordan's \"Medeco\" Challenge Lock Picked and Gutted",
       "id": "ce4Y4Z5Ghuc",
-      "manufacturer": null,
+      "manufacturer": "Medeco",
       "number": 49,
       "shortTitle": "AJ Jordan's \"Medeco\" Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=ce4Y4Z5Ghuc"
@@ -443,7 +443,7 @@
     "56": {
       "fullTitle": "[56] Best L Keyway 7 Pin SFIC Picked to Control",
       "id": "po1j6RNR0wo",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 56,
       "shortTitle": "Best L Keyway 7 Pin SFIC Picked to Control",
       "url": "https://www.youtube.com/watch?v=po1j6RNR0wo"
@@ -475,7 +475,7 @@
     "60": {
       "fullTitle": "[60] The Worst Lock in the World Abused",
       "id": "bIJCYT7npi0",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 60,
       "shortTitle": "The Worst Lock in the World Abused",
       "url": "https://www.youtube.com/watch?v=bIJCYT7npi0"
@@ -515,7 +515,7 @@
     "65": {
       "fullTitle": "[65] Abus 41/40 Padlock Picked",
       "id": "6oCE6lPIdCk",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 65,
       "shortTitle": "Abus 41/40 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=6oCE6lPIdCk"
@@ -531,7 +531,7 @@
     "67": {
       "fullTitle": "[67] Unusual Abus 55/40 Padlock Picked",
       "id": "nypmZa10cNc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 67,
       "shortTitle": "Unusual Abus 55/40 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=nypmZa10cNc"
@@ -603,7 +603,7 @@
     "76": {
       "fullTitle": "[76] Ace II Tubular Padlock Picked, Shimmed, and Disassembled (Chicago Lock Co./CompX)",
       "id": "XXl7Kd1r71o",
-      "manufacturer": null,
+      "manufacturer": "CompX",
       "number": 76,
       "shortTitle": "Ace II Tubular Padlock Picked, Shimmed, and Disassembled (Chicago Lock Co./CompX)",
       "url": "https://www.youtube.com/watch?v=XXl7Kd1r71o"
@@ -635,7 +635,7 @@
     "80": {
       "fullTitle": "[80] Gera Euro Profile Cylinder Picked",
       "id": "2OPfBIesXaI",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 80,
       "shortTitle": "Gera Euro Profile Cylinder Picked",
       "url": "https://www.youtube.com/watch?v=2OPfBIesXaI"
@@ -731,7 +731,7 @@
     "92": {
       "fullTitle": "[92] Dom Plura SKG** Euro Profile Cylinder Picked and Gutted",
       "id": "cEXJnP9WWsg",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 92,
       "shortTitle": "Dom Plura SKG** Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=cEXJnP9WWsg"
@@ -739,7 +739,7 @@
     "93": {
       "fullTitle": "[93] AJ Jordan's Abus 83 Challenge Lock Picked and Gutted",
       "id": "WwYHyH9Ne5Q",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 93,
       "shortTitle": "AJ Jordan's Abus 83 Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=WwYHyH9Ne5Q"
@@ -763,7 +763,7 @@
     "96": {
       "fullTitle": "[96] American Lock Series 700 Padlock Picked and Gutted",
       "id": "Kt93Earc6is",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 96,
       "shortTitle": "American Lock Series 700 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=Kt93Earc6is"
@@ -835,7 +835,7 @@
     "105": {
       "fullTitle": "[105] Adams Rite Euro Profile Cylinder Picked and Gutted",
       "id": "epvq8_xljCw",
-      "manufacturer": null,
+      "manufacturer": "Adams Rite",
       "number": 105,
       "shortTitle": "Adams Rite Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=epvq8_xljCw"
@@ -851,7 +851,7 @@
     "107": {
       "fullTitle": "[107] Mul-T-Lock Interactive Euro Profile Cylinder Picked and Gutted",
       "id": "utS4gdEm8mE",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 107,
       "shortTitle": "Mul-T-Lock Interactive Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=utS4gdEm8mE"
@@ -883,7 +883,7 @@
     "111": {
       "fullTitle": "[111] Dom ix 10-Pin Euro Profile Dimple Cylinder Picked and Gutted",
       "id": "W_9xlfc_UPM",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 111,
       "shortTitle": "Dom ix 10-Pin Euro Profile Dimple Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=W_9xlfc_UPM"
@@ -931,7 +931,7 @@
     "117": {
       "fullTitle": "[117] Dom RN SKG** Euro Profile Cylinder Picked and Gutted",
       "id": "Wb4I74COXEo",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 117,
       "shortTitle": "Dom RN SKG** Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=Wb4I74COXEo"
@@ -1075,7 +1075,7 @@
     "135": {
       "fullTitle": "[135] Potti314's Abus Challenge Lock Picked and Gutted",
       "id": "N6ic9o9nSGc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 135,
       "shortTitle": "Potti314's Abus Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=N6ic9o9nSGc"
@@ -1091,7 +1091,7 @@
     "137": {
       "fullTitle": "[137] Mul-T-Lock Interactive KiK Cylinder Picked and Gutted",
       "id": "CnRKqZyPO5w",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 137,
       "shortTitle": "Mul-T-Lock Interactive KiK Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=CnRKqZyPO5w"
@@ -1115,7 +1115,7 @@
     "140": {
       "fullTitle": "[140] Union 3102 Brass Padlock Picked",
       "id": "usoy0Cz8cro",
-      "manufacturer": null,
+      "manufacturer": "UNION",
       "number": 140,
       "shortTitle": "Union 3102 Brass Padlock Picked",
       "url": "https://www.youtube.com/watch?v=usoy0Cz8cro"
@@ -1195,7 +1195,7 @@
     "150": {
       "fullTitle": "[150] Various Disc Padlocks Picked (Abus, Master, and More)",
       "id": "cm8p4CmeOfk",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 150,
       "shortTitle": "Various Disc Padlocks Picked (Abus, Master, and More)",
       "url": "https://www.youtube.com/watch?v=cm8p4CmeOfk"
@@ -1227,7 +1227,7 @@
     "154": {
       "fullTitle": "[154] Abus 25/70 Dimple Disc Padlock Picked",
       "id": "PbEH1Z-mjvU",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 154,
       "shortTitle": "Abus 25/70 Dimple Disc Padlock Picked",
       "url": "https://www.youtube.com/watch?v=PbEH1Z-mjvU"
@@ -1235,7 +1235,7 @@
     "155": {
       "fullTitle": "[155] American Lock Series 5300 Shrouded Padlock Picked and Gutted",
       "id": "d_vWpJHTh40",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 155,
       "shortTitle": "American Lock Series 5300 Shrouded Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=d_vWpJHTh40"
@@ -1307,7 +1307,7 @@
     "164": {
       "fullTitle": "[164] HUGE American Lock Series 790 Padlock Picked and Gutted (Again)",
       "id": "9qnQwx_H3DE",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 164,
       "shortTitle": "HUGE American Lock Series 790 Padlock Picked and Gutted (Again)",
       "url": "https://www.youtube.com/watch?v=9qnQwx_H3DE"
@@ -1323,7 +1323,7 @@
     "166": {
       "fullTitle": "[166] American Lock D100CC Disc Padlock Picked",
       "id": "ophhD0VODLs",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 166,
       "shortTitle": "American Lock D100CC Disc Padlock Picked",
       "url": "https://www.youtube.com/watch?v=ophhD0VODLs"
@@ -1347,7 +1347,7 @@
     "169": {
       "fullTitle": "[169] Master Lock Series 6835 Padlock Picked and Gutted",
       "id": "9bz0fjJKiBQ",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 169,
       "shortTitle": "Master Lock Series 6835 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=9bz0fjJKiBQ"
@@ -1371,7 +1371,7 @@
     "172": {
       "fullTitle": "[172] Abus 34/55 Padlock Picked and Gutted",
       "id": "k1F2GgFNqvw",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 172,
       "shortTitle": "Abus 34/55 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=k1F2GgFNqvw"
@@ -1387,7 +1387,7 @@
     "174": {
       "fullTitle": "[174] Master Lock No. 533 Shrouded Padlock Picked",
       "id": "6u8AFQHj1kc",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 174,
       "shortTitle": "Master Lock No. 533 Shrouded Padlock Picked",
       "url": "https://www.youtube.com/watch?v=6u8AFQHj1kc"
@@ -1403,7 +1403,7 @@
     "176": {
       "fullTitle": "[176] Federal Model 1000 Disc Padlock Picked",
       "id": "iVonlojPJKU",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 176,
       "shortTitle": "Federal Model 1000 Disc Padlock Picked",
       "url": "https://www.youtube.com/watch?v=iVonlojPJKU"
@@ -1419,7 +1419,7 @@
     "178": {
       "fullTitle": "[178] Master Lock EX Series Padlock Picked (Model 3DEX)",
       "id": "GPQzqtXHCow",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 178,
       "shortTitle": "Master Lock EX Series Padlock Picked (Model 3DEX)",
       "url": "https://www.youtube.com/watch?v=GPQzqtXHCow"
@@ -1427,7 +1427,7 @@
     "179": {
       "fullTitle": "[179] Abus 26/70 Disc Padlock Picked",
       "id": "th4Zslu1ddE",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 179,
       "shortTitle": "Abus 26/70 Disc Padlock Picked",
       "url": "https://www.youtube.com/watch?v=th4Zslu1ddE"
@@ -1435,7 +1435,7 @@
     "180": {
       "fullTitle": "[180] Master Lock Model 911 Padlock Picked and Gutted",
       "id": "5OgHXSWGubs",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 180,
       "shortTitle": "Master Lock Model 911 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=5OgHXSWGubs"
@@ -1443,7 +1443,7 @@
     "181": {
       "fullTitle": "[181] Abus Titalium 80TI/50 Picked and Shimmed",
       "id": "cVgfkzUewwk",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 181,
       "shortTitle": "Abus Titalium 80TI/50 Picked and Shimmed",
       "url": "https://www.youtube.com/watch?v=cVgfkzUewwk"
@@ -1467,7 +1467,7 @@
     "184": {
       "fullTitle": "[184] Defective American Lock Series 5200 Picked and Gutted",
       "id": "x0Mct77ZqoI",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 184,
       "shortTitle": "Defective American Lock Series 5200 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=x0Mct77ZqoI"
@@ -1475,7 +1475,7 @@
     "185": {
       "fullTitle": "[185] Federal 100G Padlock (Solid Body Version) Picked and Gutted",
       "id": "LgrJ4p3c7NY",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 185,
       "shortTitle": "Federal 100G Padlock (Solid Body Version) Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=LgrJ4p3c7NY"
@@ -1523,7 +1523,7 @@
     "191": {
       "fullTitle": "[191] Master Lock 931 Shielded Shackle Padlock Picked and Gutted",
       "id": "c5FwyXv7hS8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 191,
       "shortTitle": "Master Lock 931 Shielded Shackle Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=c5FwyXv7hS8"
@@ -1547,7 +1547,7 @@
     "194": {
       "fullTitle": "[194] Master Lock Model 1145 Dimple Padlock Picked",
       "id": "011iwnQE4x8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 194,
       "shortTitle": "Master Lock Model 1145 Dimple Padlock Picked",
       "url": "https://www.youtube.com/watch?v=011iwnQE4x8"
@@ -1555,7 +1555,7 @@
     "195": {
       "fullTitle": "[195] Abus 82/63 Shutter Padlock Picked and Bypassed",
       "id": "goU1WPSeCZo",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 195,
       "shortTitle": "Abus 82/63 Shutter Padlock Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=goU1WPSeCZo"
@@ -1571,7 +1571,7 @@
     "197": {
       "fullTitle": "[197] Abus XP10 Euro Profile Cylinder Picked and Gutted",
       "id": "7OpXmtpOm30",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 197,
       "shortTitle": "Abus XP10 Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=7OpXmtpOm30"
@@ -1611,7 +1611,7 @@
     "202": {
       "fullTitle": "[202] Tesa TE5 Euro Profile Cylinder Picked and Gutted",
       "id": "9TlmibP0DJw",
-      "manufacturer": null,
+      "manufacturer": "TESA",
       "number": 202,
       "shortTitle": "Tesa TE5 Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=9TlmibP0DJw"
@@ -1643,7 +1643,7 @@
     "206": {
       "fullTitle": "[206] American Lock Series 600 Padlock Picked and Disassembled",
       "id": "pE1DH6CD0Nk",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 206,
       "shortTitle": "American Lock Series 600 Padlock Picked and Disassembled",
       "url": "https://www.youtube.com/watch?v=pE1DH6CD0Nk"
@@ -1659,7 +1659,7 @@
     "208": {
       "fullTitle": "[208] Mul-T-Lock Interactive+ Euro Profile Cylinder Picked and Gutted",
       "id": "twA0WcIl7BY",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 208,
       "shortTitle": "Mul-T-Lock Interactive+ Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=twA0WcIl7BY"
@@ -1675,7 +1675,7 @@
     "210": {
       "fullTitle": "[210] HUGE Abus 83/80 \"Rock\" Padlock Picked and Gutted",
       "id": "DheW6s3oNHE",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 210,
       "shortTitle": "HUGE Abus 83/80 \"Rock\" Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=DheW6s3oNHE"
@@ -1707,7 +1707,7 @@
     "214": {
       "fullTitle": "[214] American Lock P6 Padlock Picked (50mm Series)",
       "id": "lwGt195skr4",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 214,
       "shortTitle": "American Lock P6 Padlock Picked (50mm Series)",
       "url": "https://www.youtube.com/watch?v=lwGt195skr4"
@@ -1715,7 +1715,7 @@
     "215": {
       "fullTitle": "[215] Master Lock #27 Padlock Picked and Gutted (50mm Series)",
       "id": "uFcj-cnzi00",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 215,
       "shortTitle": "Master Lock #27 Padlock Picked and Gutted (50mm Series)",
       "url": "https://www.youtube.com/watch?v=uFcj-cnzi00"
@@ -1723,7 +1723,7 @@
     "216": {
       "fullTitle": "[216] Iseo 90mm Shutter Lock Picked and Bypassed (Model 805909)",
       "id": "PPKbZtiWIAw",
-      "manufacturer": null,
+      "manufacturer": "ISEO",
       "number": 216,
       "shortTitle": "Iseo 90mm Shutter Lock Picked and Bypassed (Model 805909)",
       "url": "https://www.youtube.com/watch?v=PPKbZtiWIAw"
@@ -1747,7 +1747,7 @@
     "219": {
       "fullTitle": "[219] Abus 82/90 Shutter Padlock Picked and Bypassed",
       "id": "8myFD9V_UTE",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 219,
       "shortTitle": "Abus 82/90 Shutter Padlock Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=8myFD9V_UTE"
@@ -1779,7 +1779,7 @@
     "223": {
       "fullTitle": "[223] Yale/Eaton Model 7313 Padlock Picked",
       "id": "F-9lDvVURXA",
-      "manufacturer": null,
+      "manufacturer": "Yale",
       "number": 223,
       "shortTitle": "Yale/Eaton Model 7313 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=F-9lDvVURXA"
@@ -1843,7 +1843,7 @@
     "231": {
       "fullTitle": "[231] Abus 45/50 Laminated Padlock Picked (50mm Series)",
       "id": "F8x5B07RVms",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 231,
       "shortTitle": "Abus 45/50 Laminated Padlock Picked (50mm Series)",
       "url": "https://www.youtube.com/watch?v=F8x5B07RVms"
@@ -1859,7 +1859,7 @@
     "233": {
       "fullTitle": "[233] Mul-T-Lock NE14H Interactive+ Padlock (CEN 6) Picked and Gutted",
       "id": "vjbI_HN9IQU",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 233,
       "shortTitle": "Mul-T-Lock NE14H Interactive+ Padlock (CEN 6) Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=vjbI_HN9IQU"
@@ -1867,7 +1867,7 @@
     "234": {
       "fullTitle": "[234] Mul-T-Lock Interactive Showcase Lock Picked",
       "id": "Wxx_x_Ai6o8",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 234,
       "shortTitle": "Mul-T-Lock Interactive Showcase Lock Picked",
       "url": "https://www.youtube.com/watch?v=Wxx_x_Ai6o8"
@@ -1875,7 +1875,7 @@
     "235": {
       "fullTitle": "[235] HUGE Mul-T-Lock C16 Interactive+ Padlock Picked and Gutted",
       "id": "NqBeDP4CPXs",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 235,
       "shortTitle": "HUGE Mul-T-Lock C16 Interactive+ Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=NqBeDP4CPXs"
@@ -1915,7 +1915,7 @@
     "240": {
       "fullTitle": "[240] Abus 75IB/50 - Improvised Dimple Picking",
       "id": "yX0Xd0UWGKo",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 240,
       "shortTitle": "Abus 75IB/50 - Improvised Dimple Picking",
       "url": "https://www.youtube.com/watch?v=yX0Xd0UWGKo"
@@ -1931,7 +1931,7 @@
     "242": {
       "fullTitle": "[242] Iseo 70mm Brass Padlock Picked and Shimmed (Model 801707)",
       "id": "qDt_hlQjONE",
-      "manufacturer": null,
+      "manufacturer": "ISEO",
       "number": 242,
       "shortTitle": "Iseo 70mm Brass Padlock Picked and Shimmed (Model 801707)",
       "url": "https://www.youtube.com/watch?v=qDt_hlQjONE"
@@ -1963,7 +1963,7 @@
     "246": {
       "fullTitle": "[246] Abus 83CS/55 \"Rock\" Padlock Picked and Gutted",
       "id": "rA7MK-VDFBs",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 246,
       "shortTitle": "Abus 83CS/55 \"Rock\" Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=rA7MK-VDFBs"
@@ -2003,7 +2003,7 @@
     "251": {
       "fullTitle": "[251] Abus Pfaffenhain Vitess Euro Profile Cylinder Picked and Gutted (Series 2000)",
       "id": "N_FN8nx8aXA",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 251,
       "shortTitle": "Abus Pfaffenhain Vitess Euro Profile Cylinder Picked and Gutted (Series 2000)",
       "url": "https://www.youtube.com/watch?v=N_FN8nx8aXA"
@@ -2051,7 +2051,7 @@
     "257": {
       "fullTitle": "[257] Abus 60/40 Brass Padlock Picked",
       "id": "8CaW_RduJJM",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 257,
       "shortTitle": "Abus 60/40 Brass Padlock Picked",
       "url": "https://www.youtube.com/watch?v=8CaW_RduJJM"
@@ -2099,7 +2099,7 @@
     "263": {
       "fullTitle": "[263] Adrian Leon's Ilco/Kwikset Challenge Lock Picked and Gutted",
       "id": "xBWhi3wO5lc",
-      "manufacturer": null,
+      "manufacturer": "Ilco",
       "number": 263,
       "shortTitle": "Adrian Leon's Ilco/Kwikset Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=xBWhi3wO5lc"
@@ -2187,7 +2187,7 @@
     "274": {
       "fullTitle": "[274] Mul-T-Lock LFIC/FSIC Cylinder Picked to Operating & Control and Gutted",
       "id": "AuE3RtOn9IA",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 274,
       "shortTitle": "Mul-T-Lock LFIC/FSIC Cylinder Picked to Operating & Control and Gutted",
       "url": "https://www.youtube.com/watch?v=AuE3RtOn9IA"
@@ -2219,7 +2219,7 @@
     "278": {
       "fullTitle": "[278] Union SH50SO Padlock Picked and Gutted",
       "id": "wKx_BjDV8Kc",
-      "manufacturer": null,
+      "manufacturer": "UNION",
       "number": 278,
       "shortTitle": "Union SH50SO Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=wKx_BjDV8Kc"
@@ -2355,7 +2355,7 @@
     "295": {
       "fullTitle": "[295] Iseo Perfecta Picked and Gutted",
       "id": "Szbkxjs5WFk",
-      "manufacturer": null,
+      "manufacturer": "ISEO",
       "number": 295,
       "shortTitle": "Iseo Perfecta Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=Szbkxjs5WFk"
@@ -2419,7 +2419,7 @@
     "303": {
       "fullTitle": "[303] Master Lock 680D Armored Shutter Lock Picked",
       "id": "etxH5vIo_UE",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 303,
       "shortTitle": "Master Lock 680D Armored Shutter Lock Picked",
       "url": "https://www.youtube.com/watch?v=etxH5vIo_UE"
@@ -2531,7 +2531,7 @@
     "317": {
       "fullTitle": "[317] 40mmAL Series: Abus 72/40 Padlock Picked and Gutted",
       "id": "u6cS_0RGu24",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 317,
       "shortTitle": "40mmAL Series: Abus 72/40 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=u6cS_0RGu24"
@@ -2547,7 +2547,7 @@
     "319": {
       "fullTitle": "[319] Special Considerations in Tensioning Dimple Locks",
       "id": "kSsgOSpWbpI",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 319,
       "shortTitle": "Special Considerations in Tensioning Dimple Locks",
       "url": "https://www.youtube.com/watch?v=kSsgOSpWbpI"
@@ -2571,7 +2571,7 @@
     "323": {
       "fullTitle": "[323] Cisa PT-45 Padlock Picked and Gutted",
       "id": "Hvyvvyy6dC8",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 323,
       "shortTitle": "Cisa PT-45 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=Hvyvvyy6dC8"
@@ -2579,7 +2579,7 @@
     "324": {
       "fullTitle": "[324] 40mmAL Series: Abus 83AL/40 Padlock Picked and Gutted",
       "id": "QRJmRPxl5SM",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 324,
       "shortTitle": "40mmAL Series: Abus 83AL/40 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=QRJmRPxl5SM"
@@ -2595,7 +2595,7 @@
     "326": {
       "fullTitle": "[326] 40mmAL Series: Federal 90A Padlock Picked and Gutted",
       "id": "D0K6Zx0J3-U",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 326,
       "shortTitle": "40mmAL Series: Federal 90A Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=D0K6Zx0J3-U"
@@ -2611,7 +2611,7 @@
     "328": {
       "fullTitle": "[328] 40mmAL Series:  American Lock 1100 (Edge Keyway) Picked and Gutted",
       "id": "StZCIDBKI-A",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 328,
       "shortTitle": "40mmAL Series:  American Lock 1100 (Edge Keyway) Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=StZCIDBKI-A"
@@ -2643,7 +2643,7 @@
     "333": {
       "fullTitle": "[333] Cisa 220/50 Brass Padlock Picked",
       "id": "9edhLI7XBjI",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 333,
       "shortTitle": "Cisa 220/50 Brass Padlock Picked",
       "url": "https://www.youtube.com/watch?v=9edhLI7XBjI"
@@ -2691,7 +2691,7 @@
     "339": {
       "fullTitle": "[339] Master Lock Armored Shutter Lock Picked",
       "id": "8bkzv9tBXls",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 339,
       "shortTitle": "Master Lock Armored Shutter Lock Picked",
       "url": "https://www.youtube.com/watch?v=8bkzv9tBXls"
@@ -2699,7 +2699,7 @@
     "340": {
       "fullTitle": "[340] American Lock Series HT-15 Tubular Core Padlock Picked",
       "id": "kKqU8V6eI7w",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 340,
       "shortTitle": "American Lock Series HT-15 Tubular Core Padlock Picked",
       "url": "https://www.youtube.com/watch?v=kKqU8V6eI7w"
@@ -2707,7 +2707,7 @@
     "341": {
       "fullTitle": "[341] Master Lock Pro Series 6321 Picked and Gutted",
       "id": "M2ZUj9GhRQs",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 341,
       "shortTitle": "Master Lock Pro Series 6321 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=M2ZUj9GhRQs"
@@ -2715,7 +2715,7 @@
     "342": {
       "fullTitle": "[342] Surprising Mul-T-Lock Interactive Picked and Gutted",
       "id": "XupQR_PjKiE",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 342,
       "shortTitle": "Surprising Mul-T-Lock Interactive Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=XupQR_PjKiE"
@@ -2771,7 +2771,7 @@
     "350": {
       "fullTitle": "[350] Paclock 95G Padlock Picked",
       "id": "bnIFtOxQb2I",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 350,
       "shortTitle": "Paclock 95G Padlock Picked",
       "url": "https://www.youtube.com/watch?v=bnIFtOxQb2I"
@@ -2803,7 +2803,7 @@
     "354": {
       "fullTitle": "[354] 16 American Lock 1100 Padlocks Picked in 7 Minutes!",
       "id": "QG1HRWca9C8",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 354,
       "shortTitle": "16 American Lock 1100 Padlocks Picked in 7 Minutes!",
       "url": "https://www.youtube.com/watch?v=QG1HRWca9C8"
@@ -2811,7 +2811,7 @@
     "355": {
       "fullTitle": "[355] Master Lock \"Street Cuffs\" (10-Pin Tubular Core) Picked",
       "id": "2SZiI2KhWfU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 355,
       "shortTitle": "Master Lock \"Street Cuffs\" (10-Pin Tubular Core) Picked",
       "url": "https://www.youtube.com/watch?v=2SZiI2KhWfU"
@@ -2843,7 +2843,7 @@
     "359": {
       "fullTitle": "[359] Abus 92/80 Armored Shutter Padlock Picked",
       "id": "QiaZNdGPcqA",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 359,
       "shortTitle": "Abus 92/80 Armored Shutter Padlock Picked",
       "url": "https://www.youtube.com/watch?v=QiaZNdGPcqA"
@@ -2851,7 +2851,7 @@
     "360": {
       "fullTitle": "[360] 16 Master Lock Pro Series 6835 Padlocks Picked in 7 Minutes!",
       "id": "e4kFWroi3kY",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 360,
       "shortTitle": "16 Master Lock Pro Series 6835 Padlocks Picked in 7 Minutes!",
       "url": "https://www.youtube.com/watch?v=e4kFWroi3kY"
@@ -2923,7 +2923,7 @@
     "369": {
       "fullTitle": "[369] 16 Master Lock #3 Padlocks Picked in 4 Minutes!",
       "id": "02XbUrAdbXU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 369,
       "shortTitle": "16 Master Lock #3 Padlocks Picked in 4 Minutes!",
       "url": "https://www.youtube.com/watch?v=02XbUrAdbXU"
@@ -2931,7 +2931,7 @@
     "371": {
       "fullTitle": "[371] HUGE Squire SS80CS (Mauer NW4 Core) Padlock Picked and Gutted",
       "id": "h27t7elN5Qs",
-      "manufacturer": "Squire",
+      "manufacturer": "Mauer",
       "number": 371,
       "shortTitle": "HUGE Squire SS80CS (Mauer NW4 Core) Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=h27t7elN5Qs"
@@ -2979,7 +2979,7 @@
     "377": {
       "fullTitle": "[377] Master Lock Model 2866 Trailer Hitch Pin Lock Picked",
       "id": "A9_UPkg9GZ4",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 377,
       "shortTitle": "Master Lock Model 2866 Trailer Hitch Pin Lock Picked",
       "url": "https://www.youtube.com/watch?v=A9_UPkg9GZ4"
@@ -2995,7 +2995,7 @@
     "379": {
       "fullTitle": "[379] Master Lock Model 532 Picked",
       "id": "3v8x37czGLY",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 379,
       "shortTitle": "Master Lock Model 532 Picked",
       "url": "https://www.youtube.com/watch?v=3v8x37czGLY"
@@ -3019,7 +3019,7 @@
     "382": {
       "fullTitle": "[382] Abus Bordo 5700 Bike Lock Picked and Bypassed",
       "id": "WJDWuGXDY1o",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 382,
       "shortTitle": "Abus Bordo 5700 Bike Lock Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=WJDWuGXDY1o"
@@ -3027,7 +3027,7 @@
     "383": {
       "fullTitle": "[383] Master Lock Dimple Padlock (Model 550EURD) Picked",
       "id": "BCRODs_O7rU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 383,
       "shortTitle": "Master Lock Dimple Padlock (Model 550EURD) Picked",
       "url": "https://www.youtube.com/watch?v=BCRODs_O7rU"
@@ -3051,7 +3051,7 @@
     "386": {
       "fullTitle": "[386] Iseo R9 Dimple Lock Picked and Gutted",
       "id": "DcZVxP6lTrE",
-      "manufacturer": null,
+      "manufacturer": "ISEO",
       "number": 386,
       "shortTitle": "Iseo R9 Dimple Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=DcZVxP6lTrE"
@@ -3123,7 +3123,7 @@
     "395": {
       "fullTitle": "[395] Master Lock Pro Series 6327 Picked and Gutted",
       "id": "jmcibc2Ojks",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 395,
       "shortTitle": "Master Lock Pro Series 6327 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=jmcibc2Ojks"
@@ -3139,7 +3139,7 @@
     "400": {
       "fullTitle": "[400] Abus Bordo Lite Folding Bike Lock Picked (Model 6050)",
       "id": "11npCl8fJec",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 400,
       "shortTitle": "Abus Bordo Lite Folding Bike Lock Picked (Model 6050)",
       "url": "https://www.youtube.com/watch?v=11npCl8fJec"
@@ -3147,7 +3147,7 @@
     "401": {
       "fullTitle": "[401] Master Lock Disc Brake Lock Picked (Model 8305DPS)",
       "id": "K0pVjnrY8Z4",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 401,
       "shortTitle": "Master Lock Disc Brake Lock Picked (Model 8305DPS)",
       "url": "https://www.youtube.com/watch?v=K0pVjnrY8Z4"
@@ -3187,7 +3187,7 @@
     "407": {
       "fullTitle": "[407] Master Lock Model 570 Padlock Picked",
       "id": "iB_qlQrBHH8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 407,
       "shortTitle": "Master Lock Model 570 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=iB_qlQrBHH8"
@@ -3211,7 +3211,7 @@
     "410": {
       "fullTitle": "[410] Master Lock 605DAT Trailer Coupler Lock Picked and Bypassed",
       "id": "JKDrTeWZLFQ",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 410,
       "shortTitle": "Master Lock 605DAT Trailer Coupler Lock Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=JKDrTeWZLFQ"
@@ -3219,7 +3219,7 @@
     "411": {
       "fullTitle": "[411] Apecs \"SC\" Euro Profile Cylinder Picked and Gutted",
       "id": "9E72hwm4gAw",
-      "manufacturer": null,
+      "manufacturer": "APECS",
       "number": 411,
       "shortTitle": "Apecs \"SC\" Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=9E72hwm4gAw"
@@ -3243,7 +3243,7 @@
     "414": {
       "fullTitle": "[414] Trioving SEC Mortice Cylinder Picked and Gutted",
       "id": "ybt3R8ZpnZw",
-      "manufacturer": null,
+      "manufacturer": "TrioVing",
       "number": 414,
       "shortTitle": "Trioving SEC Mortice Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=ybt3R8ZpnZw"
@@ -3251,7 +3251,7 @@
     "415": {
       "fullTitle": "[415] Cisa Astral S (Pin in Pin!) Euro Profile Cylinder Picked and Gutted",
       "id": "gYYPwxSRii0",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 415,
       "shortTitle": "Cisa Astral S (Pin in Pin!) Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=gYYPwxSRii0"
@@ -3259,7 +3259,7 @@
     "416": {
       "fullTitle": "[416] Cold War Era Soviet Dual Custody Padlock Picked",
       "id": "TLujH83_spA",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 416,
       "shortTitle": "Cold War Era Soviet Dual Custody Padlock Picked",
       "url": "https://www.youtube.com/watch?v=TLujH83_spA"
@@ -3267,7 +3267,7 @@
     "417": {
       "fullTitle": "[417] Supallama's Corbin Russwin Challenge Lock Picked and Gutted",
       "id": "KftGV5l5etM",
-      "manufacturer": null,
+      "manufacturer": "Corbin Russwin",
       "number": 417,
       "shortTitle": "Supallama's Corbin Russwin Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=KftGV5l5etM"
@@ -3291,7 +3291,7 @@
     "420": {
       "fullTitle": "[420] Apecs \"SM\" Euro Profile Dimple Cylinder Picked and Gutted",
       "id": "c0DRob_k14w",
-      "manufacturer": null,
+      "manufacturer": "APECS",
       "number": 420,
       "shortTitle": "Apecs \"SM\" Euro Profile Dimple Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=c0DRob_k14w"
@@ -3307,7 +3307,7 @@
     "422": {
       "fullTitle": "[422] Jess Hull's La Gard Challenge Lock Picked and Gutted",
       "id": "-F5McHk2bQw",
-      "manufacturer": null,
+      "manufacturer": "La Gard",
       "number": 422,
       "shortTitle": "Jess Hull's La Gard Challenge Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=-F5McHk2bQw"
@@ -3323,7 +3323,7 @@
     "424": {
       "fullTitle": "[424] Apecs \"RT\" Euro Profile Dimple Cylinder Picked and Gutted",
       "id": "hWFloGsr2LE",
-      "manufacturer": null,
+      "manufacturer": "APECS",
       "number": 424,
       "shortTitle": "Apecs \"RT\" Euro Profile Dimple Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=hWFloGsr2LE"
@@ -3363,7 +3363,7 @@
     "429": {
       "fullTitle": "[429] Master Lock #3 Opened with a Hammer",
       "id": "XbRVK3Mflk0",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 429,
       "shortTitle": "Master Lock #3 Opened with a Hammer",
       "url": "https://www.youtube.com/watch?v=XbRVK3Mflk0"
@@ -3379,7 +3379,7 @@
     "431": {
       "fullTitle": "[431] Police Car Shotgun Lock Picked (Santa Cruz Gunlocks SC-1)",
       "id": "Xoev4iHLSYU",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 431,
       "shortTitle": "Police Car Shotgun Lock Picked (Santa Cruz Gunlocks SC-1)",
       "url": "https://www.youtube.com/watch?v=Xoev4iHLSYU"
@@ -3403,7 +3403,7 @@
     "434": {
       "fullTitle": "[434] Master Lock Model 107 Gun Lock Picked",
       "id": "NlOObDUggZE",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 434,
       "shortTitle": "Master Lock Model 107 Gun Lock Picked",
       "url": "https://www.youtube.com/watch?v=NlOObDUggZE"
@@ -3475,7 +3475,7 @@
     "443": {
       "fullTitle": "[443] Paclock 100A LPL Logo Lock Picked and Gutted",
       "id": "WFaqrf7mto4",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 443,
       "shortTitle": "Paclock 100A LPL Logo Lock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=WFaqrf7mto4"
@@ -3483,7 +3483,7 @@
     "444": {
       "fullTitle": "[444] Master Lock 90DSPT Trigger Lock Picked",
       "id": "DhRZMbPHhYA",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 444,
       "shortTitle": "Master Lock 90DSPT Trigger Lock Picked",
       "url": "https://www.youtube.com/watch?v=DhRZMbPHhYA"
@@ -3491,7 +3491,7 @@
     "445": {
       "fullTitle": "[445] American Lock 5360 Picked and Gutted",
       "id": "bv4kXC53jPA",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 445,
       "shortTitle": "American Lock 5360 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=bv4kXC53jPA"
@@ -3507,7 +3507,7 @@
     "447": {
       "fullTitle": "[447] HUGE Abus 26/90 Diskus Padlock Picked",
       "id": "86ork7g4BmU",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 447,
       "shortTitle": "HUGE Abus 26/90 Diskus Padlock Picked",
       "url": "https://www.youtube.com/watch?v=86ork7g4BmU"
@@ -3523,7 +3523,7 @@
     "449": {
       "fullTitle": "[449] Cold War Era Russian Dual Custody \"Safe Lock\" Picked",
       "id": "1ZHlAUiY_rE",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 449,
       "shortTitle": "Cold War Era Russian Dual Custody \"Safe Lock\" Picked",
       "url": "https://www.youtube.com/watch?v=1ZHlAUiY_rE"
@@ -3635,7 +3635,7 @@
     "464": {
       "fullTitle": "[464] LPL Project: The Best Gun Lock Ever?",
       "id": "oImZsAI1L0Q",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 464,
       "shortTitle": "LPL Project: The Best Gun Lock Ever?",
       "url": "https://www.youtube.com/watch?v=oImZsAI1L0Q"
@@ -3651,7 +3651,7 @@
     "466": {
       "fullTitle": "[466] Unusual Cold War Era Latvian Padlock Picked",
       "id": "YCpB4TkxDAg",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 466,
       "shortTitle": "Unusual Cold War Era Latvian Padlock Picked",
       "url": "https://www.youtube.com/watch?v=YCpB4TkxDAg"
@@ -3667,7 +3667,7 @@
     "468": {
       "fullTitle": "[468] Abus Granit 37/55 Padlock Picked and Gutted",
       "id": "HaHdAqLTBxw",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 468,
       "shortTitle": "Abus Granit 37/55 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=HaHdAqLTBxw"
@@ -3675,7 +3675,7 @@
     "469": {
       "fullTitle": "[469] American Lock Series 5100 Padlock Picked and Gutted",
       "id": "oaP1nFZ9AXE",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 469,
       "shortTitle": "American Lock Series 5100 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=oaP1nFZ9AXE"
@@ -3715,7 +3715,7 @@
     "474": {
       "fullTitle": "[474] Cisa 280/70 Padlock Picked and Gutted",
       "id": "DxAYzhFVoTo",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 474,
       "shortTitle": "Cisa 280/70 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=DxAYzhFVoTo"
@@ -3755,7 +3755,7 @@
     "479": {
       "fullTitle": "[479] The Master Lock Paradox - Model 410 LOTO Padlock",
       "id": "y4XGY0_cwcM",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 479,
       "shortTitle": "The Master Lock Paradox - Model 410 LOTO Padlock",
       "url": "https://www.youtube.com/watch?v=y4XGY0_cwcM"
@@ -3771,7 +3771,7 @@
     "481": {
       "fullTitle": "[481] Abus Model 65CS/40 Picked",
       "id": "zDZc_i-IdnU",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 481,
       "shortTitle": "Abus Model 65CS/40 Picked",
       "url": "https://www.youtube.com/watch?v=zDZc_i-IdnU"
@@ -3787,7 +3787,7 @@
     "483": {
       "fullTitle": "[483] Master Lock Pro Series 6852 Picked, Improved, and Repicked",
       "id": "P4QzMdVOaK8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 483,
       "shortTitle": "Master Lock Pro Series 6852 Picked, Improved, and Repicked",
       "url": "https://www.youtube.com/watch?v=P4QzMdVOaK8"
@@ -3795,7 +3795,7 @@
     "484": {
       "fullTitle": "[484] Abus/Brady 71/40 LOTO Padlock Picked and Gutted",
       "id": "9RfNXrvXmUc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 484,
       "shortTitle": "Abus/Brady 71/40 LOTO Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=9RfNXrvXmUc"
@@ -3835,7 +3835,7 @@
     "489": {
       "fullTitle": "[489] Cisa 280/55 Padlock Picked and Gutted",
       "id": "KCY_MT6FTWs",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 489,
       "shortTitle": "Cisa 280/55 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=KCY_MT6FTWs"
@@ -3843,7 +3843,7 @@
     "490": {
       "fullTitle": "[490] Mul-T-Lock Interactive KiK Cylinder Picked and Gutted",
       "id": "TLZ3zFuW_tU",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 490,
       "shortTitle": "Mul-T-Lock Interactive KiK Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=TLZ3zFuW_tU"
@@ -3867,7 +3867,7 @@
     "493": {
       "fullTitle": "[493] Abus Granit 36/55 Padlock Picked, Gutted, and Reassembled",
       "id": "93yoR_aEhTM",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 493,
       "shortTitle": "Abus Granit 36/55 Padlock Picked, Gutted, and Reassembled",
       "url": "https://www.youtube.com/watch?v=93yoR_aEhTM"
@@ -3883,7 +3883,7 @@
     "495": {
       "fullTitle": "[495] Apecs XD (13 Pins!) Euro Profile Cylinder Picked and Gutted",
       "id": "hkLFxXmE8iA",
-      "manufacturer": null,
+      "manufacturer": "APECS",
       "number": 495,
       "shortTitle": "Apecs XD (13 Pins!) Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=hkLFxXmE8iA"
@@ -3891,7 +3891,7 @@
     "496": {
       "fullTitle": "[496] Apecs XR (5 Pins, 3 Sliders) Euro Profile Cylinder Picked and Gutted",
       "id": "oUZy0m6KT8s",
-      "manufacturer": null,
+      "manufacturer": "APECS",
       "number": 496,
       "shortTitle": "Apecs XR (5 Pins, 3 Sliders) Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=oUZy0m6KT8s"
@@ -3899,7 +3899,7 @@
     "497": {
       "fullTitle": "[497] Soviet \"Control Door\" Padlock/Tamper Seal Picked and Bypassed",
       "id": "GQknY_MlkiM",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 497,
       "shortTitle": "Soviet \"Control Door\" Padlock/Tamper Seal Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=GQknY_MlkiM"
@@ -3947,7 +3947,7 @@
     "503": {
       "fullTitle": "[503] Dom \"System D\" Euro Profile Cylinder Picked and Gutted",
       "id": "2p6TY2DiViE",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 503,
       "shortTitle": "Dom \"System D\" Euro Profile Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=2p6TY2DiViE"
@@ -3971,7 +3971,7 @@
     "506": {
       "fullTitle": "[506] Master Lock No. 3: Twist Attack",
       "id": "96TBYaBWT_Q",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 506,
       "shortTitle": "Master Lock No. 3: Twist Attack",
       "url": "https://www.youtube.com/watch?v=96TBYaBWT_Q"
@@ -3987,7 +3987,7 @@
     "508": {
       "fullTitle": "[508] Abus 65/50 Padlock: Twist Attack",
       "id": "8d1DkIxF8qw",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 508,
       "shortTitle": "Abus 65/50 Padlock: Twist Attack",
       "url": "https://www.youtube.com/watch?v=8d1DkIxF8qw"
@@ -4011,7 +4011,7 @@
     "511": {
       "fullTitle": "[511] American Lock Series 1100: Twist Attack",
       "id": "EYRziHn4hlY",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 511,
       "shortTitle": "American Lock Series 1100: Twist Attack",
       "url": "https://www.youtube.com/watch?v=EYRziHn4hlY"
@@ -4019,7 +4019,7 @@
     "512": {
       "fullTitle": "[512] Abus 83AL/45 Titalium with Restricted 888 Cylinder Picked and Gutted",
       "id": "G0oCwI6YCJ0",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 512,
       "shortTitle": "Abus 83AL/45 Titalium with Restricted 888 Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=G0oCwI6YCJ0"
@@ -4027,7 +4027,7 @@
     "513": {
       "fullTitle": "[513] American Lock Series 5200: Twist Attack",
       "id": "N2KQRadD_nc",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 513,
       "shortTitle": "American Lock Series 5200: Twist Attack",
       "url": "https://www.youtube.com/watch?v=N2KQRadD_nc"
@@ -4043,7 +4043,7 @@
     "515": {
       "fullTitle": "[515] Abus 72/40 Padlock: Twist Attack",
       "id": "FoKK_LFRCfc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 515,
       "shortTitle": "Abus 72/40 Padlock: Twist Attack",
       "url": "https://www.youtube.com/watch?v=FoKK_LFRCfc"
@@ -4099,7 +4099,7 @@
     "522": {
       "fullTitle": "[522] Polish LOB KT02 Shutter Padlock Picked",
       "id": "oe1UXQILfUQ",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 522,
       "shortTitle": "Polish LOB KT02 Shutter Padlock Picked",
       "url": "https://www.youtube.com/watch?v=oe1UXQILfUQ"
@@ -4131,7 +4131,7 @@
     "526": {
       "fullTitle": "[526] Glocksport: Master Lock No. 3 vs. .22 Blank",
       "id": "MIHRugasPLQ",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 526,
       "shortTitle": "Glocksport: Master Lock No. 3 vs. .22 Blank",
       "url": "https://www.youtube.com/watch?v=MIHRugasPLQ"
@@ -4171,7 +4171,7 @@
     "531": {
       "fullTitle": "[531] Glocksport: American Lock 1100 vs. .22 Blank",
       "id": "uD9MIZ1v0ZI",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 531,
       "shortTitle": "Glocksport: American Lock 1100 vs. .22 Blank",
       "url": "https://www.youtube.com/watch?v=uD9MIZ1v0ZI"
@@ -4195,7 +4195,7 @@
     "534": {
       "fullTitle": "[534] Abus Titalium 80TI/40 Padlock Picked",
       "id": "ayh9W1xz8EE",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 534,
       "shortTitle": "Abus Titalium 80TI/40 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=ayh9W1xz8EE"
@@ -4203,7 +4203,7 @@
     "535": {
       "fullTitle": "[535] Glocksport: Abus 80TI/40 vs. .22 Blank",
       "id": "NbONYSyU_78",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 535,
       "shortTitle": "Glocksport: Abus 80TI/40 vs. .22 Blank",
       "url": "https://www.youtube.com/watch?v=NbONYSyU_78"
@@ -4275,7 +4275,7 @@
     "544": {
       "fullTitle": "[544] Cisa 221/60 Picked, Milled Open, and Gutted",
       "id": "pmODUrfdCIk",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 544,
       "shortTitle": "Cisa 221/60 Picked, Milled Open, and Gutted",
       "url": "https://www.youtube.com/watch?v=pmODUrfdCIk"
@@ -4283,7 +4283,7 @@
     "545": {
       "fullTitle": "[545] Master Lock No. 3 vs. 900 Amps!",
       "id": "6aNm3qWkW8A",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 545,
       "shortTitle": "Master Lock No. 3 vs. 900 Amps!",
       "url": "https://www.youtube.com/watch?v=6aNm3qWkW8A"
@@ -4307,7 +4307,7 @@
     "548": {
       "fullTitle": "[548] Abus Granit 37/80 (Abus Plus Core) Picked and Gutted",
       "id": "FfFTNsowDvk",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 548,
       "shortTitle": "Abus Granit 37/80 (Abus Plus Core) Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=FfFTNsowDvk"
@@ -4331,7 +4331,7 @@
     "551": {
       "fullTitle": "[551] American Lock A780 Picked and Gutted",
       "id": "9BP95ORbi7s",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 551,
       "shortTitle": "American Lock A780 Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=9BP95ORbi7s"
@@ -4395,7 +4395,7 @@
     "559": {
       "fullTitle": "[559] Master Lock \"Street Cuff\" Motorcycle Lock vs. Ramset",
       "id": "d062SdqVPPw",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 559,
       "shortTitle": "Master Lock \"Street Cuff\" Motorcycle Lock vs. Ramset",
       "url": "https://www.youtube.com/watch?v=d062SdqVPPw"
@@ -4411,7 +4411,7 @@
     "561": {
       "fullTitle": "[561] Abus Bordo Lite Bike Lock vs. Ramset",
       "id": "QGCgHiMYBpc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 561,
       "shortTitle": "Abus Bordo Lite Bike Lock vs. Ramset",
       "url": "https://www.youtube.com/watch?v=QGCgHiMYBpc"
@@ -4443,7 +4443,7 @@
     "565": {
       "fullTitle": "[565] Abus \"Rock\" 83/80 Picked and Ramset Attack Planned",
       "id": "opf1XI7vZ5Q",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 565,
       "shortTitle": "Abus \"Rock\" 83/80 Picked and Ramset Attack Planned",
       "url": "https://www.youtube.com/watch?v=opf1XI7vZ5Q"
@@ -4459,7 +4459,7 @@
     "567": {
       "fullTitle": "[567] Ramset Fail? Abus \"Rock\" 83/80",
       "id": "LUmjLLXl8Y4",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 567,
       "shortTitle": "Ramset Fail? Abus \"Rock\" 83/80",
       "url": "https://www.youtube.com/watch?v=LUmjLLXl8Y4"
@@ -4475,7 +4475,7 @@
     "569": {
       "fullTitle": "[569] Harley-Davidson Motorcycle Ignition Switch Picked FAST!",
       "id": "nWnGE80qjDY",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 569,
       "shortTitle": "Harley-Davidson Motorcycle Ignition Switch Picked FAST!",
       "url": "https://www.youtube.com/watch?v=nWnGE80qjDY"
@@ -4523,7 +4523,7 @@
     "575": {
       "fullTitle": "[575] Abus Buffo/Provogue 305 Motorcycle Disc Brake Lock Picked",
       "id": "h1HIw_UxGmc",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 575,
       "shortTitle": "Abus Buffo/Provogue 305 Motorcycle Disc Brake Lock Picked",
       "url": "https://www.youtube.com/watch?v=h1HIw_UxGmc"
@@ -4555,7 +4555,7 @@
     "579": {
       "fullTitle": "[579] American Lock Series 2000 Puck Lock MELTED Open!",
       "id": "YjFd_3cZ-i8",
-      "manufacturer": null,
+      "manufacturer": "American Lock",
       "number": 579,
       "shortTitle": "American Lock Series 2000 Puck Lock MELTED Open!",
       "url": "https://www.youtube.com/watch?v=YjFd_3cZ-i8"
@@ -4563,7 +4563,7 @@
     "580": {
       "fullTitle": "[580] PacLock Block-Lock Prototype - Review, Pick, and Melt",
       "id": "u3q-iFUnQwA",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 580,
       "shortTitle": "PacLock Block-Lock Prototype - Review, Pick, and Melt",
       "url": "https://www.youtube.com/watch?v=u3q-iFUnQwA"
@@ -4619,7 +4619,7 @@
     "587": {
       "fullTitle": "[587] Master Lock 252DAT Steering Wheel Lock Picked FAST",
       "id": "NuytBrQXiw8",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 587,
       "shortTitle": "Master Lock 252DAT Steering Wheel Lock Picked FAST",
       "url": "https://www.youtube.com/watch?v=NuytBrQXiw8"
@@ -4627,7 +4627,7 @@
     "588": {
       "fullTitle": "[588] PacLock 200A Picked and Gutted",
       "id": "5RLGs9Hfs5Q",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 588,
       "shortTitle": "PacLock 200A Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=5RLGs9Hfs5Q"
@@ -4635,7 +4635,7 @@
     "589": {
       "fullTitle": "[589] Abus Titalium 90RK/50 Padlock Picked and Gutted",
       "id": "zBvSenX49BU",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 589,
       "shortTitle": "Abus Titalium 90RK/50 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=zBvSenX49BU"
@@ -4659,7 +4659,7 @@
     "592": {
       "fullTitle": "[592] Mako 427 Brass Padlock Picked and Gutted",
       "id": "xhaBPiaTTsU",
-      "manufacturer": null,
+      "manufacturer": "MAKO",
       "number": 592,
       "shortTitle": "Mako 427 Brass Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=xhaBPiaTTsU"
@@ -4667,7 +4667,7 @@
     "593": {
       "fullTitle": "[593] Gallium vs. Titalium - Abus Padlock Meets a Gruesome End",
       "id": "jeghGhVdt9s",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 593,
       "shortTitle": "Gallium vs. Titalium - Abus Padlock Meets a Gruesome End",
       "url": "https://www.youtube.com/watch?v=jeghGhVdt9s"
@@ -4763,7 +4763,7 @@
     "606": {
       "fullTitle": "[606] Federal 200DT Padlock Picked and Gutted",
       "id": "KsszRM5xIKo",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 606,
       "shortTitle": "Federal 200DT Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=KsszRM5xIKo"
@@ -4787,7 +4787,7 @@
     "609": {
       "fullTitle": "[609] Nut Splitter vs. Master Lock Street Cuff Motorcycle Lock",
       "id": "3vUHKbiuodc",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 609,
       "shortTitle": "Nut Splitter vs. Master Lock Street Cuff Motorcycle Lock",
       "url": "https://www.youtube.com/watch?v=3vUHKbiuodc"
@@ -4835,7 +4835,7 @@
     "615": {
       "fullTitle": "[615] Japanese Format Mul-T-Lock Interactive Picked and Gutted",
       "id": "6ZcuaSkaYhg",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 615,
       "shortTitle": "Japanese Format Mul-T-Lock Interactive Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=6ZcuaSkaYhg"
@@ -4843,7 +4843,7 @@
     "616": {
       "fullTitle": "[616] Nut Splitter vs. Abus Bordo X-Plus 6500",
       "id": "Zs8uyPsDaw0",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 616,
       "shortTitle": "Nut Splitter vs. Abus Bordo X-Plus 6500",
       "url": "https://www.youtube.com/watch?v=Zs8uyPsDaw0"
@@ -4859,7 +4859,7 @@
     "618": {
       "fullTitle": "[618] Bolt Extractor vs. Master Lock Motorcycle Disc Brake Lock (Model 8304DPS)",
       "id": "Vrjq2DawQqY",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 618,
       "shortTitle": "Bolt Extractor vs. Master Lock Motorcycle Disc Brake Lock (Model 8304DPS)",
       "url": "https://www.youtube.com/watch?v=Vrjq2DawQqY"
@@ -4915,7 +4915,7 @@
     "625": {
       "fullTitle": "[625] Bolt Extractor vs. Abus Buffo/Provogue 305 Motorcycle Disc Brake Lock",
       "id": "NQFs_BnTnFo",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 625,
       "shortTitle": "Bolt Extractor vs. Abus Buffo/Provogue 305 Motorcycle Disc Brake Lock",
       "url": "https://www.youtube.com/watch?v=NQFs_BnTnFo"
@@ -4923,7 +4923,7 @@
     "626": {
       "fullTitle": "[626] A Pick Proof Master Lock? ALMOST!",
       "id": "jgWS4TdLFAE",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 626,
       "shortTitle": "A Pick Proof Master Lock? ALMOST!",
       "url": "https://www.youtube.com/watch?v=jgWS4TdLFAE"
@@ -4963,7 +4963,7 @@
     "631": {
       "fullTitle": "[631] Master Lock 875/975 Decoded WITHOUT ANY TOOLS !",
       "id": "bfDPtt-bnAI",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 631,
       "shortTitle": "Master Lock 875/975 Decoded WITHOUT ANY TOOLS !",
       "url": "https://www.youtube.com/watch?v=bfDPtt-bnAI"
@@ -4979,7 +4979,7 @@
     "633": {
       "fullTitle": "[633] Master Lock, Protect Your Sidebars! (M532 Picked and Gutted)",
       "id": "4NM6zEN92k8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 633,
       "shortTitle": "Master Lock, Protect Your Sidebars! (M532 Picked and Gutted)",
       "url": "https://www.youtube.com/watch?v=4NM6zEN92k8"
@@ -4995,7 +4995,7 @@
     "635": {
       "fullTitle": "[635] Fortress Combination Padlock Decoded FAST and Bypassed (Model 1850D)",
       "id": "Fah-LJJaPWg",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 635,
       "shortTitle": "Fortress Combination Padlock Decoded FAST and Bypassed (Model 1850D)",
       "url": "https://www.youtube.com/watch?v=Fah-LJJaPWg"
@@ -5027,7 +5027,7 @@
     "639": {
       "fullTitle": "[639] Master Lock 875 MELTED Open!",
       "id": "3J1DWnsiY3k",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 639,
       "shortTitle": "Master Lock 875 MELTED Open!",
       "url": "https://www.youtube.com/watch?v=3J1DWnsiY3k"
@@ -5083,7 +5083,7 @@
     "646": {
       "fullTitle": "[646] Guard Security 1500 Combination Padlock Decoded FAST",
       "id": "9NHxQ0J9AT0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 646,
       "shortTitle": "Guard Security 1500 Combination Padlock Decoded FAST",
       "url": "https://www.youtube.com/watch?v=9NHxQ0J9AT0"
@@ -5099,7 +5099,7 @@
     "648": {
       "fullTitle": "[648] Wire Survival Saw vs. Motorcycle Disc Brake Lock (Master Lock 8304DPS)",
       "id": "oNtvBufTTfA",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 648,
       "shortTitle": "Wire Survival Saw vs. Motorcycle Disc Brake Lock (Master Lock 8304DPS)",
       "url": "https://www.youtube.com/watch?v=oNtvBufTTfA"
@@ -5131,7 +5131,7 @@
     "652": {
       "fullTitle": "[652] Magnet Opens Police Car Shotgun Lock (Santa Cruz Gunlocks SC1)",
       "id": "58MiE_mUDBA",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 652,
       "shortTitle": "Magnet Opens Police Car Shotgun Lock (Santa Cruz Gunlocks SC1)",
       "url": "https://www.youtube.com/watch?v=58MiE_mUDBA"
@@ -5155,7 +5155,7 @@
     "656": {
       "fullTitle": "[656] Master Lock’s Unusual “Universal Pin” Mechanism",
       "id": "IaqnKIED_Ns",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 656,
       "shortTitle": "Master Lock’s Unusual “Universal Pin” Mechanism",
       "url": "https://www.youtube.com/watch?v=IaqnKIED_Ns"
@@ -5171,7 +5171,7 @@
     "658": {
       "fullTitle": "[658] Tag5 Industries’ “Scorpion” Lock Pick Set",
       "id": "toBgts3bTU0",
-      "manufacturer": null,
+      "manufacturer": "Scorpion",
       "number": 658,
       "shortTitle": "Tag5 Industries’ “Scorpion” Lock Pick Set",
       "url": "https://www.youtube.com/watch?v=toBgts3bTU0"
@@ -5211,7 +5211,7 @@
     "663": {
       "fullTitle": "[663] The ORIGINAL Bike U-Lock Picked (Kryptonite K3)",
       "id": "Qn6UdATFKcU",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 663,
       "shortTitle": "The ORIGINAL Bike U-Lock Picked (Kryptonite K3)",
       "url": "https://www.youtube.com/watch?v=Qn6UdATFKcU"
@@ -5227,7 +5227,7 @@
     "665": {
       "fullTitle": "[665] Master Lock Trailer Coupler Lock Picked FAST (Model 379ATPY)",
       "id": "iQHfADaPxfA",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 665,
       "shortTitle": "Master Lock Trailer Coupler Lock Picked FAST (Model 379ATPY)",
       "url": "https://www.youtube.com/watch?v=iQHfADaPxfA"
@@ -5259,7 +5259,7 @@
     "669": {
       "fullTitle": "[669] TERRIBLE Police Car Rifle Lock Opened 4 Ways (Santa Cruz Gunlocks SC-5)",
       "id": "n-dQj8N196g",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 669,
       "shortTitle": "TERRIBLE Police Car Rifle Lock Opened 4 Ways (Santa Cruz Gunlocks SC-5)",
       "url": "https://www.youtube.com/watch?v=n-dQj8N196g"
@@ -5283,7 +5283,7 @@
     "672": {
       "fullTitle": "[672] Pipe Wrench vs. Master Lock No. 5",
       "id": "XxM80zAu_GI",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 672,
       "shortTitle": "Pipe Wrench vs. Master Lock No. 5",
       "url": "https://www.youtube.com/watch?v=XxM80zAu_GI"
@@ -5291,7 +5291,7 @@
     "673": {
       "fullTitle": "[673] Kryptonite’s Trickiest Core in its Worst Lock (TKO Mini U-Lock)",
       "id": "1SzH4BXJpjQ",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 673,
       "shortTitle": "Kryptonite’s Trickiest Core in its Worst Lock (TKO Mini U-Lock)",
       "url": "https://www.youtube.com/watch?v=1SzH4BXJpjQ"
@@ -5307,7 +5307,7 @@
     "675": {
       "fullTitle": "[675] A 7-Pin Master Lock! (Model 7120D)",
       "id": "Q6gD3VczyBg",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 675,
       "shortTitle": "A 7-Pin Master Lock! (Model 7120D)",
       "url": "https://www.youtube.com/watch?v=Q6gD3VczyBg"
@@ -5323,7 +5323,7 @@
     "677": {
       "fullTitle": "[677] Plumber’s Torch Opens Master Lock M530",
       "id": "BqAQ0zL0wDo",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 677,
       "shortTitle": "Plumber’s Torch Opens Master Lock M530",
       "url": "https://www.youtube.com/watch?v=BqAQ0zL0wDo"
@@ -5331,7 +5331,7 @@
     "678": {
       "fullTitle": "[678] Abus EC75/60 Dimple Padlock Picked",
       "id": "sGP2u4vKyQ8",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 678,
       "shortTitle": "Abus EC75/60 Dimple Padlock Picked",
       "url": "https://www.youtube.com/watch?v=sGP2u4vKyQ8"
@@ -5363,7 +5363,7 @@
     "682": {
       "fullTitle": "[682] Opening a Master Lock with a Master Lock (Model 500BRK)",
       "id": "kMJPmDRkduU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 682,
       "shortTitle": "Opening a Master Lock with a Master Lock (Model 500BRK)",
       "url": "https://www.youtube.com/watch?v=kMJPmDRkduU"
@@ -5379,7 +5379,7 @@
     "684": {
       "fullTitle": "[684] WordLock’s Dual Sidebar WLX Series Bike U-Lock Picked",
       "id": "BTgWcQpq6qE",
-      "manufacturer": null,
+      "manufacturer": "Wordlock",
       "number": 684,
       "shortTitle": "WordLock’s Dual Sidebar WLX Series Bike U-Lock Picked",
       "url": "https://www.youtube.com/watch?v=BTgWcQpq6qE"
@@ -5395,7 +5395,7 @@
     "686": {
       "fullTitle": "[686] Kryptonite’s Best: The New York Legend Chain/Padlock Combo Picked (Model 1515)",
       "id": "h60e5U88-OI",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 686,
       "shortTitle": "Kryptonite’s Best: The New York Legend Chain/Padlock Combo Picked (Model 1515)",
       "url": "https://www.youtube.com/watch?v=h60e5U88-OI"
@@ -5419,7 +5419,7 @@
     "689": {
       "fullTitle": "[689] Abus Granit 37/55 (Abus Plus Core) Picked",
       "id": "9hMop8v15pQ",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 689,
       "shortTitle": "Abus Granit 37/55 (Abus Plus Core) Picked",
       "url": "https://www.youtube.com/watch?v=9hMop8v15pQ"
@@ -5443,7 +5443,7 @@
     "692": {
       "fullTitle": "[692] “Tamper-Resistant” WordLock Combination Padlock Bypassed (Model PL-106-SS)",
       "id": "8Uci2KsGGsw",
-      "manufacturer": null,
+      "manufacturer": "Wordlock",
       "number": 692,
       "shortTitle": "“Tamper-Resistant” WordLock Combination Padlock Bypassed (Model PL-106-SS)",
       "url": "https://www.youtube.com/watch?v=8Uci2KsGGsw"
@@ -5451,7 +5451,7 @@
     "693": {
       "fullTitle": "[693] Plumbing Torch vs. Master Lock Magnum No. M15",
       "id": "TraNDih4iQ0",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 693,
       "shortTitle": "Plumbing Torch vs. Master Lock Magnum No. M15",
       "url": "https://www.youtube.com/watch?v=TraNDih4iQ0"
@@ -5483,7 +5483,7 @@
     "697": {
       "fullTitle": "[697] Master Lock Truck Bed U-Lock Picked (Model 8287 DAT)",
       "id": "o97vnZGibPM",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 697,
       "shortTitle": "Master Lock Truck Bed U-Lock Picked (Model 8287 DAT)",
       "url": "https://www.youtube.com/watch?v=o97vnZGibPM"
@@ -5587,7 +5587,7 @@
     "712": {
       "fullTitle": "[712] Master Lock Spare Tire Lock Picked FAST (Model 262DAT)",
       "id": "ZKyIRSTaGvw",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 712,
       "shortTitle": "Master Lock Spare Tire Lock Picked FAST (Model 262DAT)",
       "url": "https://www.youtube.com/watch?v=ZKyIRSTaGvw"
@@ -5635,7 +5635,7 @@
     "720": {
       "fullTitle": "[720] Cisa’s Massive 94mm Brass Shutter Lock Picked (Model 26510)",
       "id": "5kYfvfADrbU",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 720,
       "shortTitle": "Cisa’s Massive 94mm Brass Shutter Lock Picked (Model 26510)",
       "url": "https://www.youtube.com/watch?v=5kYfvfADrbU"
@@ -5667,7 +5667,7 @@
     "724": {
       "fullTitle": "[724] Union Model 3122 Brass Padlock Picked",
       "id": "bAMHDJtD8iI",
-      "manufacturer": null,
+      "manufacturer": "UNION",
       "number": 724,
       "shortTitle": "Union Model 3122 Brass Padlock Picked",
       "url": "https://www.youtube.com/watch?v=bAMHDJtD8iI"
@@ -5683,7 +5683,7 @@
     "726": {
       "fullTitle": "[726] The Naughty Bucket Chronicles — Tokoz “Tech 300” Euro Cylinder Picked and Gutted",
       "id": "2AR-iW480iA",
-      "manufacturer": null,
+      "manufacturer": "TOKOZ",
       "number": 726,
       "shortTitle": "The Naughty Bucket Chronicles — Tokoz “Tech 300” Euro Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=2AR-iW480iA"
@@ -5859,7 +5859,7 @@
     "749": {
       "fullTitle": "[749] FSDC Combination Gun Lock Decoded FAST!",
       "id": "hVkQ6x_afFQ",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 749,
       "shortTitle": "FSDC Combination Gun Lock Decoded FAST!",
       "url": "https://www.youtube.com/watch?v=hVkQ6x_afFQ"
@@ -5915,7 +5915,7 @@
     "756": {
       "fullTitle": "[756] Sentry Safe Cut in Half FAST!",
       "id": "2guvwQvElA8",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 756,
       "shortTitle": "Sentry Safe Cut in Half FAST!",
       "url": "https://www.youtube.com/watch?v=2guvwQvElA8"
@@ -5971,7 +5971,7 @@
     "763": {
       "fullTitle": "[763] Union Safe Co. Portable Gun Safe Picked FAST",
       "id": "i7-6hsgLVy0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 763,
       "shortTitle": "Union Safe Co. Portable Gun Safe Picked FAST",
       "url": "https://www.youtube.com/watch?v=i7-6hsgLVy0"
@@ -5979,7 +5979,7 @@
     "764": {
       "fullTitle": "[764] Walmart’s Best Padlock Picked FAST - Brinks Model 162-60091",
       "id": "PiUNl984NZE",
-      "manufacturer": "Brinks",
+      "manufacturer": "BEST",
       "number": 764,
       "shortTitle": "Walmart’s Best Padlock Picked FAST - Brinks Model 162-60091",
       "url": "https://www.youtube.com/watch?v=PiUNl984NZE"
@@ -5987,7 +5987,7 @@
     "765": {
       "fullTitle": "[765] How Tough are Master Lock’s Boron Carbide Shackles?",
       "id": "ICudP7-FxVw",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 765,
       "shortTitle": "How Tough are Master Lock’s Boron Carbide Shackles?",
       "url": "https://www.youtube.com/watch?v=ICudP7-FxVw"
@@ -5995,7 +5995,7 @@
     "766": {
       "fullTitle": "[766] Franzen Security’s “Borelock\" Picked FAST",
       "id": "pK8_DpY5GOw",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 766,
       "shortTitle": "Franzen Security’s “Borelock\" Picked FAST",
       "url": "https://www.youtube.com/watch?v=pK8_DpY5GOw"
@@ -6011,7 +6011,7 @@
     "768": {
       "fullTitle": "[768] Home Depot’s Best Padlock Picked — Master Lock Model M930",
       "id": "LQNjSZYlBK0",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 768,
       "shortTitle": "Home Depot’s Best Padlock Picked — Master Lock Model M930",
       "url": "https://www.youtube.com/watch?v=LQNjSZYlBK0"
@@ -6019,7 +6019,7 @@
     "769": {
       "fullTitle": "[769] Hydraulic Cutter vs. Master Lock Bicycle U-Lock (Model 8170D)",
       "id": "JBdXeSvH9jg",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 769,
       "shortTitle": "Hydraulic Cutter vs. Master Lock Bicycle U-Lock (Model 8170D)",
       "url": "https://www.youtube.com/watch?v=JBdXeSvH9jg"
@@ -6027,7 +6027,7 @@
     "770": {
       "fullTitle": "[770] Master Lock Cable Gun Lock Picked FAST (Model 99DSPT)",
       "id": "qw-RBQcwpBs",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 770,
       "shortTitle": "Master Lock Cable Gun Lock Picked FAST (Model 99DSPT)",
       "url": "https://www.youtube.com/watch?v=qw-RBQcwpBs"
@@ -6051,7 +6051,7 @@
     "774": {
       "fullTitle": "[774] Ace Hardware’s Best Padlock Picked and Gutted (Series A527)",
       "id": "6gbvUAU-GoM",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 774,
       "shortTitle": "Ace Hardware’s Best Padlock Picked and Gutted (Series A527)",
       "url": "https://www.youtube.com/watch?v=6gbvUAU-GoM"
@@ -6083,7 +6083,7 @@
     "778": {
       "fullTitle": "[778] Abus 70IB/45 All Weather Padlock Picked",
       "id": "ZtCwlCg5t7s",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 778,
       "shortTitle": "Abus 70IB/45 All Weather Padlock Picked",
       "url": "https://www.youtube.com/watch?v=ZtCwlCg5t7s"
@@ -6163,7 +6163,7 @@
     "788": {
       "fullTitle": "[788] Another Fingerprint “Smart” Padlock to Avoid — MicaLock",
       "id": "WeCGTosv-_c",
-      "manufacturer": null,
+      "manufacturer": "Other",
       "number": 788,
       "shortTitle": "Another Fingerprint “Smart” Padlock to Avoid — MicaLock",
       "url": "https://www.youtube.com/watch?v=WeCGTosv-_c"
@@ -6251,7 +6251,7 @@
     "799": {
       "fullTitle": "[799] Target’s Best Padlock Picked - Fortress 70mm Disc Padlock (Model 357T)",
       "id": "jL-tFPceWBY",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 799,
       "shortTitle": "Target’s Best Padlock Picked - Fortress 70mm Disc Padlock (Model 357T)",
       "url": "https://www.youtube.com/watch?v=jL-tFPceWBY"
@@ -6275,7 +6275,7 @@
     "802": {
       "fullTitle": "[802] Sesamee’s Laughably Bad “SearchAlert” Travel Lock",
       "id": "-aVrzSGgkto",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 802,
       "shortTitle": "Sesamee’s Laughably Bad “SearchAlert” Travel Lock",
       "url": "https://www.youtube.com/watch?v=-aVrzSGgkto"
@@ -6299,7 +6299,7 @@
     "805": {
       "fullTitle": "[805] The Fingerprint Padlock With a Literal Open Switch (Pavlit)",
       "id": "uVvEkcN5tW8",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 805,
       "shortTitle": "The Fingerprint Padlock With a Literal Open Switch (Pavlit)",
       "url": "https://www.youtube.com/watch?v=uVvEkcN5tW8"
@@ -6331,7 +6331,7 @@
     "809": {
       "fullTitle": "[809] TERRIBLE Master Lock Trailer Coupler Lock Picked (Model 377DAT)",
       "id": "f5pV1dOlrw0",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 809,
       "shortTitle": "TERRIBLE Master Lock Trailer Coupler Lock Picked (Model 377DAT)",
       "url": "https://www.youtube.com/watch?v=f5pV1dOlrw0"
@@ -6339,7 +6339,7 @@
     "810": {
       "fullTitle": "[810] Another “Smart Lock” to Avoid (eGeeTouch)",
       "id": "q5hkOPKd9bw",
-      "manufacturer": null,
+      "manufacturer": "Other",
       "number": 810,
       "shortTitle": "Another “Smart Lock” to Avoid (eGeeTouch)",
       "url": "https://www.youtube.com/watch?v=q5hkOPKd9bw"
@@ -6371,7 +6371,7 @@
     "815": {
       "fullTitle": "[815] Public Storage Upgrades to PacLock Disc Padlock Pro 1000 (Picked!)",
       "id": "B96ZxnDaNGM",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 815,
       "shortTitle": "Public Storage Upgrades to PacLock Disc Padlock Pro 1000 (Picked!)",
       "url": "https://www.youtube.com/watch?v=B96ZxnDaNGM"
@@ -6419,7 +6419,7 @@
     "821": {
       "fullTitle": "[821] Kensington Notebook Computer Lock Picked FAST!",
       "id": "vgvCxL7dMJk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 821,
       "shortTitle": "Kensington Notebook Computer Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=vgvCxL7dMJk"
@@ -6467,7 +6467,7 @@
     "828": {
       "fullTitle": "[828] New or Used... Which is Easier to Pick? (Kryptonite New York Fahgettaboudit Lock)",
       "id": "IuUkweUI1DY",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 828,
       "shortTitle": "New or Used... Which is Easier to Pick? (Kryptonite New York Fahgettaboudit Lock)",
       "url": "https://www.youtube.com/watch?v=IuUkweUI1DY"
@@ -6475,7 +6475,7 @@
     "829": {
       "fullTitle": "[829] Design Flaw in U-Haul/Abus Padlock Exploited (Model 85/50)",
       "id": "lVReDgGmQkA",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 829,
       "shortTitle": "Design Flaw in U-Haul/Abus Padlock Exploited (Model 85/50)",
       "url": "https://www.youtube.com/watch?v=lVReDgGmQkA"
@@ -6483,7 +6483,7 @@
     "830": {
       "fullTitle": "[830] Kryptonite’s “New-U” New York Fahgettaboudit Bike Lock Picked",
       "id": "wXEY5vg75EY",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 830,
       "shortTitle": "Kryptonite’s “New-U” New York Fahgettaboudit Bike Lock Picked",
       "url": "https://www.youtube.com/watch?v=wXEY5vg75EY"
@@ -6491,7 +6491,7 @@
     "831": {
       "fullTitle": "[831] Master Lock Pickup Truck Tailgate Lock Picked FAST!",
       "id": "Vw41NZYiALg",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 831,
       "shortTitle": "Master Lock Pickup Truck Tailgate Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=Vw41NZYiALg"
@@ -6507,7 +6507,7 @@
     "833": {
       "fullTitle": "[833] Missed Opportunity: The Redesigned Master Lock No. 3",
       "id": "uOO8yA2eU7M",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 833,
       "shortTitle": "Missed Opportunity: The Redesigned Master Lock No. 3",
       "url": "https://www.youtube.com/watch?v=uOO8yA2eU7M"
@@ -6523,7 +6523,7 @@
     "835": {
       "fullTitle": "[835] Chastity Cage Picked With a Condom Wrapper (Happy Valentines Day!)",
       "id": "1uEYveSssok",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 835,
       "shortTitle": "Chastity Cage Picked With a Condom Wrapper (Happy Valentines Day!)",
       "url": "https://www.youtube.com/watch?v=1uEYveSssok"
@@ -6531,7 +6531,7 @@
     "836": {
       "fullTitle": "[836] Kryptonite’s “New-U” Evolution Mini Bike Lock Picked",
       "id": "MhwvRQpYquU",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 836,
       "shortTitle": "Kryptonite’s “New-U” Evolution Mini Bike Lock Picked",
       "url": "https://www.youtube.com/watch?v=MhwvRQpYquU"
@@ -6547,7 +6547,7 @@
     "838": {
       "fullTitle": "[838] Squire “Defiant” Insurance Padlock Picked",
       "id": "9ritLevsP68",
-      "manufacturer": "Squire",
+      "manufacturer": "Defiant",
       "number": 838,
       "shortTitle": "Squire “Defiant” Insurance Padlock Picked",
       "url": "https://www.youtube.com/watch?v=9ritLevsP68"
@@ -6555,7 +6555,7 @@
     "839": {
       "fullTitle": "[839] Kryptonite’s TERRIBLE Keeper 810 Folding Bike Lock",
       "id": "c5QwTB_6IP4",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 839,
       "shortTitle": "Kryptonite’s TERRIBLE Keeper 810 Folding Bike Lock",
       "url": "https://www.youtube.com/watch?v=c5QwTB_6IP4"
@@ -6563,7 +6563,7 @@
     "840": {
       "fullTitle": "[840] Flow Security Systems “FaucetLock” Picked FAST",
       "id": "N7f71hadNbE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 840,
       "shortTitle": "Flow Security Systems “FaucetLock” Picked FAST",
       "url": "https://www.youtube.com/watch?v=N7f71hadNbE"
@@ -6603,7 +6603,7 @@
     "845": {
       "fullTitle": "[845] Master Locks With INEXCUSABLE Design Flaws",
       "id": "s5jzHw3lXCQ",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 845,
       "shortTitle": "Master Locks With INEXCUSABLE Design Flaws",
       "url": "https://www.youtube.com/watch?v=s5jzHw3lXCQ"
@@ -6611,7 +6611,7 @@
     "846": {
       "fullTitle": "[846] Ruger Gun Lock Box Picked FAST (Model 75210R)",
       "id": "o0IYq8AhMJc",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 846,
       "shortTitle": "Ruger Gun Lock Box Picked FAST (Model 75210R)",
       "url": "https://www.youtube.com/watch?v=o0IYq8AhMJc"
@@ -6619,7 +6619,7 @@
     "847": {
       "fullTitle": "[847] Knog “Locker” Padlock Picked FAST!",
       "id": "sZmeXQq8mXo",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 847,
       "shortTitle": "Knog “Locker” Padlock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=sZmeXQq8mXo"
@@ -6635,7 +6635,7 @@
     "849": {
       "fullTitle": "[849] Abus Locks With INEXCUSABLE Design Flaws",
       "id": "dLXA5OAFZx0",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 849,
       "shortTitle": "Abus Locks With INEXCUSABLE Design Flaws",
       "url": "https://www.youtube.com/watch?v=dLXA5OAFZx0"
@@ -6667,7 +6667,7 @@
     "853": {
       "fullTitle": "[853] Fast and Effective: The Multipick “Kronos” Electric Pick Gun",
       "id": "Jv5j8klfbK8",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 853,
       "shortTitle": "Fast and Effective: The Multipick “Kronos” Electric Pick Gun",
       "url": "https://www.youtube.com/watch?v=Jv5j8klfbK8"
@@ -6747,7 +6747,7 @@
     "863": {
       "fullTitle": "[863] Flawed Design: Master Lock “dialSpeed” Digital Combination Lock",
       "id": "xFgCaX1DIRg",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 863,
       "shortTitle": "Flawed Design: Master Lock “dialSpeed” Digital Combination Lock",
       "url": "https://www.youtube.com/watch?v=xFgCaX1DIRg"
@@ -6755,7 +6755,7 @@
     "864": {
       "fullTitle": "[864] Tiny Abus EC75/30 Padlock Picked",
       "id": "tTZs5xoySIg",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 864,
       "shortTitle": "Tiny Abus EC75/30 Padlock Picked",
       "url": "https://www.youtube.com/watch?v=tTZs5xoySIg"
@@ -6795,7 +6795,7 @@
     "869": {
       "fullTitle": "[869] Open in 2 Seconds — Master Lock 141D",
       "id": "JtTneV8SaB0",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 869,
       "shortTitle": "Open in 2 Seconds — Master Lock 141D",
       "url": "https://www.youtube.com/watch?v=JtTneV8SaB0"
@@ -6835,7 +6835,7 @@
     "874": {
       "fullTitle": "[874] Yale’s Beefy Series 300/63 Padlock Picked and Gutted",
       "id": "vaF4T-1mbgc",
-      "manufacturer": null,
+      "manufacturer": "Yale",
       "number": 874,
       "shortTitle": "Yale’s Beefy Series 300/63 Padlock Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=vaF4T-1mbgc"
@@ -6867,7 +6867,7 @@
     "884": {
       "fullTitle": "[884] Removing the Scammer’s Boot... FAST",
       "id": "CrL5tqFczPE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 884,
       "shortTitle": "Removing the Scammer’s Boot... FAST",
       "url": "https://www.youtube.com/watch?v=CrL5tqFczPE"
@@ -6883,7 +6883,7 @@
     "886": {
       "fullTitle": "[886] TINY Abus Disc Padlock Picked (Model 24IB/50)",
       "id": "CKgq57TBHro",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 886,
       "shortTitle": "TINY Abus Disc Padlock Picked (Model 24IB/50)",
       "url": "https://www.youtube.com/watch?v=CKgq57TBHro"
@@ -6923,7 +6923,7 @@
     "891": {
       "fullTitle": "[891] Battle Testing Master Locks! (With BosnianBill)",
       "id": "iwEvOrNhJQQ",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 891,
       "shortTitle": "Battle Testing Master Locks! (With BosnianBill)",
       "url": "https://www.youtube.com/watch?v=iwEvOrNhJQQ"
@@ -6971,7 +6971,7 @@
     "897": {
       "fullTitle": "[897] The Lock That Survived 120 Rounds! (Squire SS80CS)",
       "id": "pNIWOHcZkZM",
-      "manufacturer": null,
+      "manufacturer": "Squire",
       "number": 897,
       "shortTitle": "The Lock That Survived 120 Rounds! (Squire SS80CS)",
       "url": "https://www.youtube.com/watch?v=pNIWOHcZkZM"
@@ -7091,7 +7091,7 @@
     "912": {
       "fullTitle": "[912] Decoded Without Tools — Master Lock 174SSD Combination Padlock",
       "id": "CTLY4b3sG9E",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 912,
       "shortTitle": "Decoded Without Tools — Master Lock 174SSD Combination Padlock",
       "url": "https://www.youtube.com/watch?v=CTLY4b3sG9E"
@@ -7099,7 +7099,7 @@
     "913": {
       "fullTitle": "[913] Prescription Medicine Safe Picked FAST (Model MS-1)",
       "id": "3OjnPW6QkIA",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 913,
       "shortTitle": "Prescription Medicine Safe Picked FAST (Model MS-1)",
       "url": "https://www.youtube.com/watch?v=3OjnPW6QkIA"
@@ -7107,7 +7107,7 @@
     "914": {
       "fullTitle": "[914] The Worst Lock Design Blunder Ever? (Kaba Simplex Series 1000)",
       "id": "cCay5ek_cW0",
-      "manufacturer": null,
+      "manufacturer": "KABA",
       "number": 914,
       "shortTitle": "The Worst Lock Design Blunder Ever? (Kaba Simplex Series 1000)",
       "url": "https://www.youtube.com/watch?v=cCay5ek_cW0"
@@ -7139,7 +7139,7 @@
     "918": {
       "fullTitle": "[918] Master Lock Shrouded Padlock Picked (Model 37)",
       "id": "2ze5S4lZbkU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 918,
       "shortTitle": "Master Lock Shrouded Padlock Picked (Model 37)",
       "url": "https://www.youtube.com/watch?v=2ze5S4lZbkU"
@@ -7179,7 +7179,7 @@
     "923": {
       "fullTitle": "[923] “Unpickable” Europa Disc Padlock Picked FAST (Model P-370)",
       "id": "F_38TFES88I",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 923,
       "shortTitle": "“Unpickable” Europa Disc Padlock Picked FAST (Model P-370)",
       "url": "https://www.youtube.com/watch?v=F_38TFES88I"
@@ -7211,7 +7211,7 @@
     "928": {
       "fullTitle": "[928] Brinks’ Beefy “ProMax” Security Cable Picked FAST!",
       "id": "z_CFkhExRSI",
-      "manufacturer": null,
+      "manufacturer": "Brinks",
       "number": 928,
       "shortTitle": "Brinks’ Beefy “ProMax” Security Cable Picked FAST!",
       "url": "https://www.youtube.com/watch?v=z_CFkhExRSI"
@@ -7219,7 +7219,7 @@
     "929": {
       "fullTitle": "[929] PacSafe Keycard Luggage Lock Picked FAST!",
       "id": "kHFhoDcc4z4",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 929,
       "shortTitle": "PacSafe Keycard Luggage Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=kHFhoDcc4z4"
@@ -7227,7 +7227,7 @@
     "931": {
       "fullTitle": "[931] PacLock is Coming to Home Depot!",
       "id": "7eOt2mHEAOM",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 931,
       "shortTitle": "PacLock is Coming to Home Depot!",
       "url": "https://www.youtube.com/watch?v=7eOt2mHEAOM"
@@ -7235,7 +7235,7 @@
     "932": {
       "fullTitle": "[932] More PacLock Products Coming to Home Depot",
       "id": "-W8N06QqK8A",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 932,
       "shortTitle": "More PacLock Products Coming to Home Depot",
       "url": "https://www.youtube.com/watch?v=-W8N06QqK8A"
@@ -7251,7 +7251,7 @@
     "934": {
       "fullTitle": "[934] Blaylock Trailer Coupler Lock Picked FAST! (Model TL-34)",
       "id": "iGzTUBntPa8",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 934,
       "shortTitle": "Blaylock Trailer Coupler Lock Picked FAST! (Model TL-34)",
       "url": "https://www.youtube.com/watch?v=iGzTUBntPa8"
@@ -7275,7 +7275,7 @@
     "937": {
       "fullTitle": "[937] Kaba 20 Mortice Cylinder Picked and Gutted",
       "id": "aWL9yDjk3GQ",
-      "manufacturer": null,
+      "manufacturer": "KABA",
       "number": 937,
       "shortTitle": "Kaba 20 Mortice Cylinder Picked and Gutted",
       "url": "https://www.youtube.com/watch?v=aWL9yDjk3GQ"
@@ -7291,7 +7291,7 @@
     "939": {
       "fullTitle": "[939] Using a “Rotar Pick” To Open a Mul-T-Lock Interactive",
       "id": "V0hIO-xoaxc",
-      "manufacturer": "Mul-T-Lock",
+      "manufacturer": "ERA",
       "number": 939,
       "shortTitle": "Using a “Rotar Pick” To Open a Mul-T-Lock Interactive",
       "url": "https://www.youtube.com/watch?v=V0hIO-xoaxc"
@@ -7307,7 +7307,7 @@
     "941": {
       "fullTitle": "[941] Tow Smart Trailer Coupler Lock Bypassed FAST",
       "id": "3yXCUpzCOF0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 941,
       "shortTitle": "Tow Smart Trailer Coupler Lock Bypassed FAST",
       "url": "https://www.youtube.com/watch?v=3yXCUpzCOF0"
@@ -7315,7 +7315,7 @@
     "942": {
       "fullTitle": "[942] Decoded by Sight: Master Lock Personal “Safe” (Model 5900D)",
       "id": "HhlkxBQdXMM",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 942,
       "shortTitle": "Decoded by Sight: Master Lock Personal “Safe” (Model 5900D)",
       "url": "https://www.youtube.com/watch?v=HhlkxBQdXMM"
@@ -7331,7 +7331,7 @@
     "944": {
       "fullTitle": "[944] .50 BMG vs. Strongest Padlock in the World (Squire SS100CS)",
       "id": "t2l4PVJkhzQ",
-      "manufacturer": null,
+      "manufacturer": "Squire",
       "number": 944,
       "shortTitle": ".50 BMG vs. Strongest Padlock in the World (Squire SS100CS)",
       "url": "https://www.youtube.com/watch?v=t2l4PVJkhzQ"
@@ -7363,7 +7363,7 @@
     "948": {
       "fullTitle": "[948] A Little Fib From Brinks: The “5 Pin” Model 161 Picked and Bypassed",
       "id": "cyK6ADLZBAA",
-      "manufacturer": null,
+      "manufacturer": "Brinks",
       "number": 948,
       "shortTitle": "A Little Fib From Brinks: The “5 Pin” Model 161 Picked and Bypassed",
       "url": "https://www.youtube.com/watch?v=cyK6ADLZBAA"
@@ -7411,7 +7411,7 @@
     "954": {
       "fullTitle": "[954] Viking Fingerprint Trigger Lock Picked FAST!",
       "id": "vfQthafhT-U",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 954,
       "shortTitle": "Viking Fingerprint Trigger Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=vfQthafhT-U"
@@ -7419,7 +7419,7 @@
     "955": {
       "fullTitle": "[955] WordLock “Stor-More” Lockbox Decoded and Opened",
       "id": "GIwCGk-ABNQ",
-      "manufacturer": null,
+      "manufacturer": "Wordlock",
       "number": 955,
       "shortTitle": "WordLock “Stor-More” Lockbox Decoded and Opened",
       "url": "https://www.youtube.com/watch?v=GIwCGk-ABNQ"
@@ -7459,7 +7459,7 @@
     "960": {
       "fullTitle": "[960] Amazon’s $112 Fingerprint Gun Safe Opened FAST!",
       "id": "Y-lE4Tz2I_Y",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 960,
       "shortTitle": "Amazon’s $112 Fingerprint Gun Safe Opened FAST!",
       "url": "https://www.youtube.com/watch?v=Y-lE4Tz2I_Y"
@@ -7507,7 +7507,7 @@
     "966": {
       "fullTitle": "[966] Decoded Without Tools: Master Lock “Safe Space” Key Box",
       "id": "EyFop7vyAjc",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 966,
       "shortTitle": "Decoded Without Tools: Master Lock “Safe Space” Key Box",
       "url": "https://www.youtube.com/watch?v=EyFop7vyAjc"
@@ -7531,7 +7531,7 @@
     "969": {
       "fullTitle": "[969] A Faster Method: Decoding the Master Lock 5400D Key Box",
       "id": "l2LvDHobpNc",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 969,
       "shortTitle": "A Faster Method: Decoding the Master Lock 5400D Key Box",
       "url": "https://www.youtube.com/watch?v=l2LvDHobpNc"
@@ -7595,7 +7595,7 @@
     "977": {
       "fullTitle": "[977] Brazilian 18-Pin Papaiz Cylinder Picked FAST",
       "id": "Is7qSijW-3s",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 977,
       "shortTitle": "Brazilian 18-Pin Papaiz Cylinder Picked FAST",
       "url": "https://www.youtube.com/watch?v=Is7qSijW-3s"
@@ -7643,7 +7643,7 @@
     "987": {
       "fullTitle": "[987] Decoded FAST: Champs Key Lock Box",
       "id": "PIN5RE53q-k",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 987,
       "shortTitle": "Decoded FAST: Champs Key Lock Box",
       "url": "https://www.youtube.com/watch?v=PIN5RE53q-k"
@@ -7651,7 +7651,7 @@
     "988": {
       "fullTitle": "[988] Best All-Around Bicycle U-Lock? Kryptonite New York Std.",
       "id": "2_9x9iiJ_Z0",
-      "manufacturer": "Kryptonite",
+      "manufacturer": "BEST",
       "number": 988,
       "shortTitle": "Best All-Around Bicycle U-Lock? Kryptonite New York Std.",
       "url": "https://www.youtube.com/watch?v=2_9x9iiJ_Z0"
@@ -7667,7 +7667,7 @@
     "991": {
       "fullTitle": "[991] Removing Inventory Control Tags FAST!",
       "id": "pji33MoJ5Z4",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 991,
       "shortTitle": "Removing Inventory Control Tags FAST!",
       "url": "https://www.youtube.com/watch?v=pji33MoJ5Z4"
@@ -7675,7 +7675,7 @@
     "992": {
       "fullTitle": "[992] Keycard-Operated Padlock Picked (Operator Time)",
       "id": "3yi75YlpiT0",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 992,
       "shortTitle": "Keycard-Operated Padlock Picked (Operator Time)",
       "url": "https://www.youtube.com/watch?v=3yi75YlpiT0"
@@ -7699,7 +7699,7 @@
     "995": {
       "fullTitle": "[995] Amazon Basics Electronic Keypad Deadbolt Picked FAST",
       "id": "nnIdDkiAMnE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 995,
       "shortTitle": "Amazon Basics Electronic Keypad Deadbolt Picked FAST",
       "url": "https://www.youtube.com/watch?v=nnIdDkiAMnE"
@@ -7707,7 +7707,7 @@
     "997": {
       "fullTitle": "[997] Drilling a Padlock the Fast and Easy Way",
       "id": "lZ5hfrCz4xk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 997,
       "shortTitle": "Drilling a Padlock the Fast and Easy Way",
       "url": "https://www.youtube.com/watch?v=lZ5hfrCz4xk"
@@ -7723,7 +7723,7 @@
     "999": {
       "fullTitle": "[999] Abus Granit X-Plus 540 Bike Lock Picked",
       "id": "PtdiO1ZiiXk",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 999,
       "shortTitle": "Abus Granit X-Plus 540 Bike Lock Picked",
       "url": "https://www.youtube.com/watch?v=PtdiO1ZiiXk"
@@ -7755,7 +7755,7 @@
     "1003": {
       "fullTitle": "[1003] Strange Newspaper Vending Lock Picked (Baton 6000 Series)",
       "id": "5kWBZz7dFxw",
-      "manufacturer": null,
+      "manufacturer": "Baton",
       "number": 1003,
       "shortTitle": "Strange Newspaper Vending Lock Picked (Baton 6000 Series)",
       "url": "https://www.youtube.com/watch?v=5kWBZz7dFxw"
@@ -7763,7 +7763,7 @@
     "1004": {
       "fullTitle": "[1004] Abus Granit Sledg 77 Picked (X-Plus Core)",
       "id": "1D_vCWzX_Rw",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1004,
       "shortTitle": "Abus Granit Sledg 77 Picked (X-Plus Core)",
       "url": "https://www.youtube.com/watch?v=1D_vCWzX_Rw"
@@ -7819,7 +7819,7 @@
     "1011": {
       "fullTitle": "[1011] Something’s Missing (Other Than Security) - Honeywell Key Lock Box",
       "id": "kSZuVW_1yi8",
-      "manufacturer": null,
+      "manufacturer": "Other",
       "number": 1011,
       "shortTitle": "Something’s Missing (Other Than Security) - Honeywell Key Lock Box",
       "url": "https://www.youtube.com/watch?v=kSZuVW_1yi8"
@@ -7875,7 +7875,7 @@
     "1018": {
       "fullTitle": "[1018] Blind Pick of The Abus X-Plus Core",
       "id": "mAyTv64YkTI",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1018,
       "shortTitle": "Blind Pick of The Abus X-Plus Core",
       "url": "https://www.youtube.com/watch?v=mAyTv64YkTI"
@@ -7899,7 +7899,7 @@
     "1021": {
       "fullTitle": "[1021] MFS Supply Key Safe Decoded FAST!",
       "id": "U__RaOy39Sg",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1021,
       "shortTitle": "MFS Supply Key Safe Decoded FAST!",
       "url": "https://www.youtube.com/watch?v=U__RaOy39Sg"
@@ -7915,7 +7915,7 @@
     "1023": {
       "fullTitle": "[1023] The Heavyweight Champion of Folding Bike Locks Picked (Abus Bordo 6500)",
       "id": "Zhz9g6A_fuI",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1023,
       "shortTitle": "The Heavyweight Champion of Folding Bike Locks Picked (Abus Bordo 6500)",
       "url": "https://www.youtube.com/watch?v=Zhz9g6A_fuI"
@@ -7947,7 +7947,7 @@
     "1028": {
       "fullTitle": "[1028] KIYA Key Safe Opened FAST!",
       "id": "nHJWcFe27S0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1028,
       "shortTitle": "KIYA Key Safe Opened FAST!",
       "url": "https://www.youtube.com/watch?v=nHJWcFe27S0"
@@ -7963,7 +7963,7 @@
     "1030": {
       "fullTitle": "[1030] Tire-Deflating Car Lock Picked FAST!",
       "id": "wOedgb2zC5s",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1030,
       "shortTitle": "Tire-Deflating Car Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=wOedgb2zC5s"
@@ -7979,7 +7979,7 @@
     "1032": {
       "fullTitle": "[1032] No Tools Needed: Master Lock Push Button Key Box Decoded",
       "id": "6RSXQsYYso4",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1032,
       "shortTitle": "No Tools Needed: Master Lock Push Button Key Box Decoded",
       "url": "https://www.youtube.com/watch?v=6RSXQsYYso4"
@@ -7987,7 +7987,7 @@
     "1033": {
       "fullTitle": "[1033] Trailer Hitch Locking Key Box Opened FAST (HitchSafe)",
       "id": "ympVA0GW1jE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1033,
       "shortTitle": "Trailer Hitch Locking Key Box Opened FAST (HitchSafe)",
       "url": "https://www.youtube.com/watch?v=ympVA0GW1jE"
@@ -8179,7 +8179,7 @@
     "1057": {
       "fullTitle": "[1057] Abus vs. Master Lock Key Lockboxes",
       "id": "EpDMsPgnh_M",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1057,
       "shortTitle": "Abus vs. Master Lock Key Lockboxes",
       "url": "https://www.youtube.com/watch?v=EpDMsPgnh_M"
@@ -8195,7 +8195,7 @@
     "1059": {
       "fullTitle": "[1059] The Club “PersonalVault\" Picked FAST",
       "id": "onHJuyDjbsM",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1059,
       "shortTitle": "The Club “PersonalVault\" Picked FAST",
       "url": "https://www.youtube.com/watch?v=onHJuyDjbsM"
@@ -8339,7 +8339,7 @@
     "1077": {
       "fullTitle": "[1077] This Lock Must Be Picked TWICE (Bricard 1967)",
       "id": "jHTpW7euAns",
-      "manufacturer": null,
+      "manufacturer": "Bricard",
       "number": 1077,
       "shortTitle": "This Lock Must Be Picked TWICE (Bricard 1967)",
       "url": "https://www.youtube.com/watch?v=jHTpW7euAns"
@@ -8355,7 +8355,7 @@
     "1079": {
       "fullTitle": "[1079] Kryptonite’s Double U-Lock Picked — The Messenger Mini+",
       "id": "K2KNc4g-0yI",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 1079,
       "shortTitle": "Kryptonite’s Double U-Lock Picked — The Messenger Mini+",
       "url": "https://www.youtube.com/watch?v=K2KNc4g-0yI"
@@ -8363,7 +8363,7 @@
     "1080": {
       "fullTitle": "[1080] Better Than Most: Abus Granit 68 Victory X-Plus Picked",
       "id": "Csa01fsnCQE",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1080,
       "shortTitle": "Better Than Most: Abus Granit 68 Victory X-Plus Picked",
       "url": "https://www.youtube.com/watch?v=Csa01fsnCQE"
@@ -8379,7 +8379,7 @@
     "1082": {
       "fullTitle": "[1082] Inexcusable: The Pro-Gard Police Car Shotgun Lock",
       "id": "Cw0EPb3S8v4",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1082,
       "shortTitle": "Inexcusable: The Pro-Gard Police Car Shotgun Lock",
       "url": "https://www.youtube.com/watch?v=Cw0EPb3S8v4"
@@ -8443,7 +8443,7 @@
     "1090": {
       "fullTitle": "[1090] As Bad As You’d Think: AmazonBasics Bike Lock Picked FAST!",
       "id": "8WkNoA_ki9c",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1090,
       "shortTitle": "As Bad As You’d Think: AmazonBasics Bike Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=8WkNoA_ki9c"
@@ -8451,7 +8451,7 @@
     "1091": {
       "fullTitle": "[1091] A Sadly Ordinary Copy: Kryptonite’s “Gripper” Combination Lock Bypassed",
       "id": "ZW3s1iks0No",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 1091,
       "shortTitle": "A Sadly Ordinary Copy: Kryptonite’s “Gripper” Combination Lock Bypassed",
       "url": "https://www.youtube.com/watch?v=ZW3s1iks0No"
@@ -8555,7 +8555,7 @@
     "1106": {
       "fullTitle": "[1106] INEXCUSABLE: Police Car Gun Lock Bypassed in ONE SECOND (Big Sky Racks' ELS 300)",
       "id": "lF0uiRS8asc",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1106,
       "shortTitle": "INEXCUSABLE: Police Car Gun Lock Bypassed in ONE SECOND (Big Sky Racks' ELS 300)",
       "url": "https://www.youtube.com/watch?v=lF0uiRS8asc"
@@ -8571,7 +8571,7 @@
     "1108": {
       "fullTitle": "[1108] Opened With A BUTTER KNIFE: Master Lock Electronic Lockbox (Model P008EML)",
       "id": "DvkSYh2dkN8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1108,
       "shortTitle": "Opened With A BUTTER KNIFE: Master Lock Electronic Lockbox (Model P008EML)",
       "url": "https://www.youtube.com/watch?v=DvkSYh2dkN8"
@@ -8643,7 +8643,7 @@
     "1117": {
       "fullTitle": "[1117] A Bicycle “Do Not Disturb” Sign: Uläc Brooklyn U-Lock Picked FAST",
       "id": "vn0xMtHhgSQ",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1117,
       "shortTitle": "A Bicycle “Do Not Disturb” Sign: Uläc Brooklyn U-Lock Picked FAST",
       "url": "https://www.youtube.com/watch?v=vn0xMtHhgSQ"
@@ -8675,7 +8675,7 @@
     "1121": {
       "fullTitle": "[1121] Abus No.150/50 Combination Lock Decoded",
       "id": "oFktnCdbavA",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1121,
       "shortTitle": "Abus No.150/50 Combination Lock Decoded",
       "url": "https://www.youtube.com/watch?v=oFktnCdbavA"
@@ -8715,7 +8715,7 @@
     "1126": {
       "fullTitle": "[1126] “Thief’s Lament” Bike Lock Picked FAST!",
       "id": "nOqDkdekaVE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1126,
       "shortTitle": "“Thief’s Lament” Bike Lock Picked FAST!",
       "url": "https://www.youtube.com/watch?v=nOqDkdekaVE"
@@ -8731,7 +8731,7 @@
     "1128": {
       "fullTitle": "[1128] A Design Flaw That Can Make an Easy Lock Hard To Pick (Master Lock M187)",
       "id": "qYbNxE_SEIk",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1128,
       "shortTitle": "A Design Flaw That Can Make an Easy Lock Hard To Pick (Master Lock M187)",
       "url": "https://www.youtube.com/watch?v=qYbNxE_SEIk"
@@ -8739,7 +8739,7 @@
     "1129": {
       "fullTitle": "[1129] “Fantasy Lock” vs. “Fraud Lock” (Squire 770)",
       "id": "Pa6VWW7zYJw",
-      "manufacturer": null,
+      "manufacturer": "Squire",
       "number": 1129,
       "shortTitle": "“Fantasy Lock” vs. “Fraud Lock” (Squire 770)",
       "url": "https://www.youtube.com/watch?v=Pa6VWW7zYJw"
@@ -8771,7 +8771,7 @@
     "1133": {
       "fullTitle": "[1133] Abus 160 Combination Lock Decoded Two Unusual Ways",
       "id": "_Fz1pO7nI50",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1133,
       "shortTitle": "Abus 160 Combination Lock Decoded Two Unusual Ways",
       "url": "https://www.youtube.com/watch?v=_Fz1pO7nI50"
@@ -8787,7 +8787,7 @@
     "1135": {
       "fullTitle": "[1135] Asec 5-Lever Padlock Picked FAST",
       "id": "N534Lkpn2Ko",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1135,
       "shortTitle": "Asec 5-Lever Padlock Picked FAST",
       "url": "https://www.youtube.com/watch?v=N534Lkpn2Ko"
@@ -8795,7 +8795,7 @@
     "1136": {
       "fullTitle": "[1136] Soviet-Era Ural Automotive Plant Padlock Picked",
       "id": "eQC4ea-Mbrw",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1136,
       "shortTitle": "Soviet-Era Ural Automotive Plant Padlock Picked",
       "url": "https://www.youtube.com/watch?v=eQC4ea-Mbrw"
@@ -8803,7 +8803,7 @@
     "1137": {
       "fullTitle": "[1137] The Worst Bike Lock You Should Consider Using (Kryptonite Keeper U-Lock)",
       "id": "Z31B-mcD6WQ",
-      "manufacturer": null,
+      "manufacturer": "Kryptonite",
       "number": 1137,
       "shortTitle": "The Worst Bike Lock You Should Consider Using (Kryptonite Keeper U-Lock)",
       "url": "https://www.youtube.com/watch?v=Z31B-mcD6WQ"
@@ -8811,7 +8811,7 @@
     "1138": {
       "fullTitle": "[1138] Stopower Electric Plug Lock Jiggled Open FAST",
       "id": "dZuxvAHilr0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1138,
       "shortTitle": "Stopower Electric Plug Lock Jiggled Open FAST",
       "url": "https://www.youtube.com/watch?v=dZuxvAHilr0"
@@ -8843,7 +8843,7 @@
     "1142": {
       "fullTitle": "[1142] No Tools Needed: Decoding The Master Lock 878 Combination Lock",
       "id": "hpkf1Zldf0s",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1142,
       "shortTitle": "No Tools Needed: Decoding The Master Lock 878 Combination Lock",
       "url": "https://www.youtube.com/watch?v=hpkf1Zldf0s"
@@ -8859,7 +8859,7 @@
     "1144": {
       "fullTitle": "[1144] AmazonBasics’ Deficient Disc Padlock Picked FAST",
       "id": "K1SPptLs7W4",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1144,
       "shortTitle": "AmazonBasics’ Deficient Disc Padlock Picked FAST",
       "url": "https://www.youtube.com/watch?v=K1SPptLs7W4"
@@ -8947,7 +8947,7 @@
     "1155": {
       "fullTitle": "[1155] RE/MAX Key Lock Box Decoded FAST (VAULTLocks 5000)",
       "id": "SaC_fhT2iqA",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1155,
       "shortTitle": "RE/MAX Key Lock Box Decoded FAST (VAULTLocks 5000)",
       "url": "https://www.youtube.com/watch?v=SaC_fhT2iqA"
@@ -8971,7 +8971,7 @@
     "1158": {
       "fullTitle": "[1158] Opened Faster WITHOUT The Code: AmazonBasics Combination Lock",
       "id": "zjSF8TyAWm4",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1158,
       "shortTitle": "Opened Faster WITHOUT The Code: AmazonBasics Combination Lock",
       "url": "https://www.youtube.com/watch?v=zjSF8TyAWm4"
@@ -8979,7 +8979,7 @@
     "1159": {
       "fullTitle": "[1159] Grey Goose Bottle Anti-Theft Lock Opened FAST!",
       "id": "x-9epLR3hKw",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1159,
       "shortTitle": "Grey Goose Bottle Anti-Theft Lock Opened FAST!",
       "url": "https://www.youtube.com/watch?v=x-9epLR3hKw"
@@ -9035,7 +9035,7 @@
     "1166": {
       "fullTitle": "[1166] Novice-Level Security: Master Lock No. 387 Kingpin Lock",
       "id": "ap9ny3-3rZ8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1166,
       "shortTitle": "Novice-Level Security: Master Lock No. 387 Kingpin Lock",
       "url": "https://www.youtube.com/watch?v=ap9ny3-3rZ8"
@@ -9091,7 +9091,7 @@
     "1173": {
       "fullTitle": "[1173] I Can’t Believe This Is Sold As A Bike Lock: Master Lock 8361D",
       "id": "oaUH4vtcOG8",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1173,
       "shortTitle": "I Can’t Believe This Is Sold As A Bike Lock: Master Lock 8361D",
       "url": "https://www.youtube.com/watch?v=oaUH4vtcOG8"
@@ -9163,7 +9163,7 @@
     "1182": {
       "fullTitle": "[1182] A 300 Year-Old Design In A Modern Padlock (Tokoz 112/50)",
       "id": "TU4zpdO7wTA",
-      "manufacturer": null,
+      "manufacturer": "TOKOZ",
       "number": 1182,
       "shortTitle": "A 300 Year-Old Design In A Modern Padlock (Tokoz 112/50)",
       "url": "https://www.youtube.com/watch?v=TU4zpdO7wTA"
@@ -9171,7 +9171,7 @@
     "1183": {
       "fullTitle": "[1183] A Zip-Tie Bike Lock?!? Bell “QuickZip” Opened FAST",
       "id": "PMuZYQ1-56Q",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1183,
       "shortTitle": "A Zip-Tie Bike Lock?!? Bell “QuickZip” Opened FAST",
       "url": "https://www.youtube.com/watch?v=PMuZYQ1-56Q"
@@ -9187,7 +9187,7 @@
     "1185": {
       "fullTitle": "[1185] Marketing LIES About This FoboZone Chain Lock (Picked FAST)",
       "id": "ALIAjsi_NpM",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1185,
       "shortTitle": "Marketing LIES About This FoboZone Chain Lock (Picked FAST)",
       "url": "https://www.youtube.com/watch?v=ALIAjsi_NpM"
@@ -9195,7 +9195,7 @@
     "1186": {
       "fullTitle": "[1186] INEXCUSABLE Design Flaw in Cisa 610/63 (Picked & Bypassed)",
       "id": "BMdD-b3Y1WI",
-      "manufacturer": null,
+      "manufacturer": "CISA",
       "number": 1186,
       "shortTitle": "INEXCUSABLE Design Flaw in Cisa 610/63 (Picked & Bypassed)",
       "url": "https://www.youtube.com/watch?v=BMdD-b3Y1WI"
@@ -9203,7 +9203,7 @@
     "1187": {
       "fullTitle": "[1187] Fake Book Concealment Safes Picked FAST",
       "id": "uQN_Duia5SM",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1187,
       "shortTitle": "Fake Book Concealment Safes Picked FAST",
       "url": "https://www.youtube.com/watch?v=uQN_Duia5SM"
@@ -9243,7 +9243,7 @@
     "1193": {
       "fullTitle": "[1193] SeaSense Outboard Motor Lock Picked",
       "id": "zGisjsNQWz4",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 1193,
       "shortTitle": "SeaSense Outboard Motor Lock Picked",
       "url": "https://www.youtube.com/watch?v=zGisjsNQWz4"
@@ -9275,7 +9275,7 @@
     "1197": {
       "fullTitle": "[1197] Opened FAST: Master Lock Puck Locks Comb Picked!",
       "id": "uxmmwWwW6TY",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1197,
       "shortTitle": "Opened FAST: Master Lock Puck Locks Comb Picked!",
       "url": "https://www.youtube.com/watch?v=uxmmwWwW6TY"
@@ -9323,7 +9323,7 @@
     "1203": {
       "fullTitle": "[1203] Tricky To Pick, But EASY To Open: Abus 55/60",
       "id": "Qoq-T-7lq7Q",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1203,
       "shortTitle": "Tricky To Pick, But EASY To Open: Abus 55/60",
       "url": "https://www.youtube.com/watch?v=Qoq-T-7lq7Q"
@@ -9347,7 +9347,7 @@
     "1206": {
       "fullTitle": "[1206] They Said It Couldn’t Be Decoded... They Were Wrong (ASSA SRB36)",
       "id": "qpqL6C6Zfks",
-      "manufacturer": null,
+      "manufacturer": "ASSA",
       "number": 1206,
       "shortTitle": "They Said It Couldn’t Be Decoded... They Were Wrong (ASSA SRB36)",
       "url": "https://www.youtube.com/watch?v=qpqL6C6Zfks"
@@ -9371,7 +9371,7 @@
     "1209": {
       "fullTitle": "[1209] This Tiny WiFi Camera Owns Kwikset SmartKey (LockTech LTKSD)",
       "id": "DGdsIrAjp3k",
-      "manufacturer": "Kwikset",
+      "manufacturer": "ERA",
       "number": 1209,
       "shortTitle": "This Tiny WiFi Camera Owns Kwikset SmartKey (LockTech LTKSD)",
       "url": "https://www.youtube.com/watch?v=DGdsIrAjp3k"
@@ -9379,7 +9379,7 @@
     "1210": {
       "fullTitle": "[1210] Police Car DVR Data Vault Picked",
       "id": "9PzYy7Ijr5M",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1210,
       "shortTitle": "Police Car DVR Data Vault Picked",
       "url": "https://www.youtube.com/watch?v=9PzYy7Ijr5M"
@@ -9387,7 +9387,7 @@
     "1211": {
       "fullTitle": "[1211] Which Master Lock Is Harder To Pick? A Surprising Result",
       "id": "XBM91Mw8EdY",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1211,
       "shortTitle": "Which Master Lock Is Harder To Pick? A Surprising Result",
       "url": "https://www.youtube.com/watch?v=XBM91Mw8EdY"
@@ -9403,7 +9403,7 @@
     "1213": {
       "fullTitle": "[1213] Yale’s “Maximum Security” Chain Lock Picked",
       "id": "5Op2bCgcnYc",
-      "manufacturer": null,
+      "manufacturer": "Yale",
       "number": 1213,
       "shortTitle": "Yale’s “Maximum Security” Chain Lock Picked",
       "url": "https://www.youtube.com/watch?v=5Op2bCgcnYc"
@@ -9419,7 +9419,7 @@
     "1215": {
       "fullTitle": "[1215] A Problem That Runs In The Family - Comb Picking Master Locks",
       "id": "KHYpSERxcC4",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1215,
       "shortTitle": "A Problem That Runs In The Family - Comb Picking Master Locks",
       "url": "https://www.youtube.com/watch?v=KHYpSERxcC4"
@@ -9435,7 +9435,7 @@
     "1217": {
       "fullTitle": "[1217] Mesa Hotel Safe: Three Vulnerabilities",
       "id": "za5zLvKIzAU",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1217,
       "shortTitle": "Mesa Hotel Safe: Three Vulnerabilities",
       "url": "https://www.youtube.com/watch?v=za5zLvKIzAU"
@@ -9475,7 +9475,7 @@
     "1222": {
       "fullTitle": "[1222] Opened FAST: Sharper Image Fingerprint Padlock",
       "id": "WGiDzMLcMHU",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1222,
       "shortTitle": "Opened FAST: Sharper Image Fingerprint Padlock",
       "url": "https://www.youtube.com/watch?v=WGiDzMLcMHU"
@@ -9547,7 +9547,7 @@
     "1231": {
       "fullTitle": "[1231] WWII-Era Army Ordnance Department Padlock Picked (Yale 797)",
       "id": "qHa6O-LmE68",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1231,
       "shortTitle": "WWII-Era Army Ordnance Department Padlock Picked (Yale 797)",
       "url": "https://www.youtube.com/watch?v=qHa6O-LmE68"
@@ -9555,7 +9555,7 @@
     "1232": {
       "fullTitle": "[1232] Abus Model 40 Mini Bike U-Lock Picked",
       "id": "sP1HBPDcvL4",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1232,
       "shortTitle": "Abus Model 40 Mini Bike U-Lock Picked",
       "url": "https://www.youtube.com/watch?v=sP1HBPDcvL4"
@@ -9571,7 +9571,7 @@
     "1234": {
       "fullTitle": "[1234] “The Best Door Lock” According to NYT Wirecutter",
       "id": "WpbKOL1cM34",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1234,
       "shortTitle": "“The Best Door Lock” According to NYT Wirecutter",
       "url": "https://www.youtube.com/watch?v=WpbKOL1cM34"
@@ -9579,7 +9579,7 @@
     "1235": {
       "fullTitle": "[1235] Decoded FAST: Hard Head Key Lockbox",
       "id": "eDHGKigoTNk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1235,
       "shortTitle": "Decoded FAST: Hard Head Key Lockbox",
       "url": "https://www.youtube.com/watch?v=eDHGKigoTNk"
@@ -9635,7 +9635,7 @@
     "1242": {
       "fullTitle": "[1242] NYT Wirecutter Says These Are The Best Bike Locks",
       "id": "jZtNEC1uGg4",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1242,
       "shortTitle": "NYT Wirecutter Says These Are The Best Bike Locks",
       "url": "https://www.youtube.com/watch?v=jZtNEC1uGg4"
@@ -9643,7 +9643,7 @@
     "1243": {
       "fullTitle": "[1243] Shimming The Anti-Shim Abus Combination Lock (Model 78/50)",
       "id": "-4c5XmagOHM",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1243,
       "shortTitle": "Shimming The Anti-Shim Abus Combination Lock (Model 78/50)",
       "url": "https://www.youtube.com/watch?v=-4c5XmagOHM"
@@ -9667,7 +9667,7 @@
     "1246": {
       "fullTitle": "[1246] INEXCUSABLY Flawed Police Car Gun Lock (Patriot Products)",
       "id": "qk5-0VoaOt4",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1246,
       "shortTitle": "INEXCUSABLY Flawed Police Car Gun Lock (Patriot Products)",
       "url": "https://www.youtube.com/watch?v=qk5-0VoaOt4"
@@ -9691,7 +9691,7 @@
     "1249": {
       "fullTitle": "[1249] A Reasonable Choice? Master Lock Pro Series 7045",
       "id": "2b4fVFPyEBM",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1249,
       "shortTitle": "A Reasonable Choice? Master Lock Pro Series 7045",
       "url": "https://www.youtube.com/watch?v=2b4fVFPyEBM"
@@ -9699,7 +9699,7 @@
     "1250": {
       "fullTitle": "[1250] Pocket EMP Generator Opens Timer Padlock",
       "id": "MtNkUjQAHqY",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1250,
       "shortTitle": "Pocket EMP Generator Opens Timer Padlock",
       "url": "https://www.youtube.com/watch?v=MtNkUjQAHqY"
@@ -9707,7 +9707,7 @@
     "1251": {
       "fullTitle": "[1251] SereneLife Safe Picked FAST",
       "id": "XNIwW5H3xY8",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1251,
       "shortTitle": "SereneLife Safe Picked FAST",
       "url": "https://www.youtube.com/watch?v=XNIwW5H3xY8"
@@ -9739,7 +9739,7 @@
     "1255": {
       "fullTitle": "[1255] Ford Transit Van Lock Picked",
       "id": "espaCceEBB0",
-      "manufacturer": null,
+      "manufacturer": "Van Lock",
       "number": 1255,
       "shortTitle": "Ford Transit Van Lock Picked",
       "url": "https://www.youtube.com/watch?v=espaCceEBB0"
@@ -9755,7 +9755,7 @@
     "1257": {
       "fullTitle": "[1257] Master Lock Celebrates 100 Years of... Security?",
       "id": "pp6GyPH2TsY",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1257,
       "shortTitle": "Master Lock Celebrates 100 Years of... Security?",
       "url": "https://www.youtube.com/watch?v=pp6GyPH2TsY"
@@ -9779,7 +9779,7 @@
     "1260": {
       "fullTitle": "[1260] Answering A Question No One Asked: SeaToSummit TSA Lock",
       "id": "YFdkigkmxHk",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 1260,
       "shortTitle": "Answering A Question No One Asked: SeaToSummit TSA Lock",
       "url": "https://www.youtube.com/watch?v=YFdkigkmxHk"
@@ -9803,7 +9803,7 @@
     "1263": {
       "fullTitle": "[1263] PacLock’s “Universal Cylinder” Hitch Pin Locks Picked",
       "id": "7kJw2lkVbZg",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1263,
       "shortTitle": "PacLock’s “Universal Cylinder” Hitch Pin Locks Picked",
       "url": "https://www.youtube.com/watch?v=7kJw2lkVbZg"
@@ -9875,7 +9875,7 @@
     "1272": {
       "fullTitle": "[1272] Good Job Master Lock... Kinda.",
       "id": "Ut1_yBDo1rE",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1272,
       "shortTitle": "Good Job Master Lock... Kinda.",
       "url": "https://www.youtube.com/watch?v=Ut1_yBDo1rE"
@@ -9891,7 +9891,7 @@
     "1274": {
       "fullTitle": "[1274] Picked FAST: Van Vault’s “Cobra 11” Chain/Lock Combo",
       "id": "uBA_XK4MyPE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1274,
       "shortTitle": "Picked FAST: Van Vault’s “Cobra 11” Chain/Lock Combo",
       "url": "https://www.youtube.com/watch?v=uBA_XK4MyPE"
@@ -9907,7 +9907,7 @@
     "1276": {
       "fullTitle": "[1276] Decoded FAST: Master Lock 5415D Key Lockbox",
       "id": "4YveeusNY80",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1276,
       "shortTitle": "Decoded FAST: Master Lock 5415D Key Lockbox",
       "url": "https://www.youtube.com/watch?v=4YveeusNY80"
@@ -9923,7 +9923,7 @@
     "1278": {
       "fullTitle": "[1278] Yale’s Improved Model Y114/60 Padlock",
       "id": "XUUivRLTUA8",
-      "manufacturer": null,
+      "manufacturer": "Yale",
       "number": 1278,
       "shortTitle": "Yale’s Improved Model Y114/60 Padlock",
       "url": "https://www.youtube.com/watch?v=XUUivRLTUA8"
@@ -9979,7 +9979,7 @@
     "1285": {
       "fullTitle": "[1285] Abus Bordo Lite Folding Bike Lock Picked (Model 6055)",
       "id": "pnzMCCqzu14",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1285,
       "shortTitle": "Abus Bordo Lite Folding Bike Lock Picked (Model 6055)",
       "url": "https://www.youtube.com/watch?v=pnzMCCqzu14"
@@ -10035,7 +10035,7 @@
     "1292": {
       "fullTitle": "[1292] Lesson: Don’t Copy Master Lock (Reset Combination Lock)",
       "id": "WQH-NC-bGrg",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1292,
       "shortTitle": "Lesson: Don’t Copy Master Lock (Reset Combination Lock)",
       "url": "https://www.youtube.com/watch?v=WQH-NC-bGrg"
@@ -10043,7 +10043,7 @@
     "1293": {
       "fullTitle": "[1293] PacLock’s Cone-Shaped Drill Defense",
       "id": "6fW3JdvGhAM",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1293,
       "shortTitle": "PacLock’s Cone-Shaped Drill Defense",
       "url": "https://www.youtube.com/watch?v=6fW3JdvGhAM"
@@ -10099,7 +10099,7 @@
     "1300": {
       "fullTitle": "[1300] Picked FAST: SteelCore Locking Security Strap",
       "id": "dGVJem0oxZE",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1300,
       "shortTitle": "Picked FAST: SteelCore Locking Security Strap",
       "url": "https://www.youtube.com/watch?v=dGVJem0oxZE"
@@ -10107,7 +10107,7 @@
     "1301": {
       "fullTitle": "[1301] The Key is the Best Attack: Construction Cores",
       "id": "WlRTlUYLrxw",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1301,
       "shortTitle": "The Key is the Best Attack: Construction Cores",
       "url": "https://www.youtube.com/watch?v=WlRTlUYLrxw"
@@ -10163,7 +10163,7 @@
     "1308": {
       "fullTitle": "[1308] A Huge Flaw In This Coin-Operated Locker Mechanism",
       "id": "DFtv4felNOI",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1308,
       "shortTitle": "A Huge Flaw In This Coin-Operated Locker Mechanism",
       "url": "https://www.youtube.com/watch?v=DFtv4felNOI"
@@ -10211,7 +10211,7 @@
     "1314": {
       "fullTitle": "[1314] Chevy Silverado Pickup Truck Lock Picked",
       "id": "10adPxkx0uY",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1314,
       "shortTitle": "Chevy Silverado Pickup Truck Lock Picked",
       "url": "https://www.youtube.com/watch?v=10adPxkx0uY"
@@ -10227,7 +10227,7 @@
     "1316": {
       "fullTitle": "[1316] Soulyi Biometric Gun Safe Picked FAST",
       "id": "JN-TBTqktHg",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1316,
       "shortTitle": "Soulyi Biometric Gun Safe Picked FAST",
       "url": "https://www.youtube.com/watch?v=JN-TBTqktHg"
@@ -10259,7 +10259,7 @@
     "1320": {
       "fullTitle": "[1320] Opened FAST: New Sharper Image Fingerprint Padlock",
       "id": "hvPP7h_zqHk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1320,
       "shortTitle": "Opened FAST: New Sharper Image Fingerprint Padlock",
       "url": "https://www.youtube.com/watch?v=hvPP7h_zqHk"
@@ -10323,7 +10323,7 @@
     "1329": {
       "fullTitle": "[1329] Abus “Submariner” Marine Padlock Picked & Gutted (Model 83WPIB/53)",
       "id": "AYjVzQEVclM",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1329,
       "shortTitle": "Abus “Submariner” Marine Padlock Picked & Gutted (Model 83WPIB/53)",
       "url": "https://www.youtube.com/watch?v=AYjVzQEVclM"
@@ -10371,7 +10371,7 @@
     "1335": {
       "fullTitle": "[1335] Honda Metropolitan II Multipurpose Lock Picked",
       "id": "dIq2BB_5G80",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1335,
       "shortTitle": "Honda Metropolitan II Multipurpose Lock Picked",
       "url": "https://www.youtube.com/watch?v=dIq2BB_5G80"
@@ -10379,7 +10379,7 @@
     "1336": {
       "fullTitle": "[1336] Zomoss Electronic Deadbolt Picked… FAST.",
       "id": "40wl8n1ENCk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1336,
       "shortTitle": "Zomoss Electronic Deadbolt Picked… FAST.",
       "url": "https://www.youtube.com/watch?v=40wl8n1ENCk"
@@ -10475,7 +10475,7 @@
     "1348": {
       "fullTitle": "[1348] HUGE Australian Abus “Rock” Padlock (83CS/80)",
       "id": "ticMB5lVj0g",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1348,
       "shortTitle": "HUGE Australian Abus “Rock” Padlock (83CS/80)",
       "url": "https://www.youtube.com/watch?v=ticMB5lVj0g"
@@ -10483,7 +10483,7 @@
     "1349": {
       "fullTitle": "[1349] Reassembling the Abus “Rock” Padlock (83CS/80)",
       "id": "zuy7vtuvHdI",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1349,
       "shortTitle": "Reassembling the Abus “Rock” Padlock (83CS/80)",
       "url": "https://www.youtube.com/watch?v=zuy7vtuvHdI"
@@ -10523,7 +10523,7 @@
     "1354": {
       "fullTitle": "[1354] Small But Mighty: Kaba Micro Key Switch",
       "id": "verPAfwVSGg",
-      "manufacturer": null,
+      "manufacturer": "KABA",
       "number": 1354,
       "shortTitle": "Small But Mighty: Kaba Micro Key Switch",
       "url": "https://www.youtube.com/watch?v=verPAfwVSGg"
@@ -10539,7 +10539,7 @@
     "1356": {
       "fullTitle": "[1356] A Master Lock I Should FEAR?!? Model 377 Trailer Lock",
       "id": "dwcC2BMFknI",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1356,
       "shortTitle": "A Master Lock I Should FEAR?!? Model 377 Trailer Lock",
       "url": "https://www.youtube.com/watch?v=dwcC2BMFknI"
@@ -10547,7 +10547,7 @@
     "1357": {
       "fullTitle": "[1357] Extraordinarily Average: Master Lock Bike Lock (Model 8195D)",
       "id": "1M0cu5fqGMg",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1357,
       "shortTitle": "Extraordinarily Average: Master Lock Bike Lock (Model 8195D)",
       "url": "https://www.youtube.com/watch?v=1M0cu5fqGMg"
@@ -10555,7 +10555,7 @@
     "1358": {
       "fullTitle": "[1358] Disappointing: MASSIVE Abus 93/100 Picked",
       "id": "MUn1J8pSoF4",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1358,
       "shortTitle": "Disappointing: MASSIVE Abus 93/100 Picked",
       "url": "https://www.youtube.com/watch?v=MUn1J8pSoF4"
@@ -10587,7 +10587,7 @@
     "1362": {
       "fullTitle": "[1362] Mul-T-Lock’s GPS-Tracked “WatchLock” Picked",
       "id": "i1aWXvFLSfo",
-      "manufacturer": null,
+      "manufacturer": "Mul-T-Lock",
       "number": 1362,
       "shortTitle": "Mul-T-Lock’s GPS-Tracked “WatchLock” Picked",
       "url": "https://www.youtube.com/watch?v=i1aWXvFLSfo"
@@ -10635,7 +10635,7 @@
     "1369": {
       "fullTitle": "[1369] Squire’s Disappointing Armored Shutter Lock (Model ASWL2)",
       "id": "ZMBkpEQJsrs",
-      "manufacturer": null,
+      "manufacturer": "Squire",
       "number": 1369,
       "shortTitle": "Squire’s Disappointing Armored Shutter Lock (Model ASWL2)",
       "url": "https://www.youtube.com/watch?v=ZMBkpEQJsrs"
@@ -10651,7 +10651,7 @@
     "1371": {
       "fullTitle": "[1371] PacLock’s New Roll-Up Truck Door Locks",
       "id": "oszIkc7YOo4",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1371,
       "shortTitle": "PacLock’s New Roll-Up Truck Door Locks",
       "url": "https://www.youtube.com/watch?v=oszIkc7YOo4"
@@ -10667,7 +10667,7 @@
     "1373": {
       "fullTitle": "[1373] Military Lock Showdown: Master vs. PacLock",
       "id": "k8NZMYTZx9g",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1373,
       "shortTitle": "Military Lock Showdown: Master vs. PacLock",
       "url": "https://www.youtube.com/watch?v=k8NZMYTZx9g"
@@ -10675,7 +10675,7 @@
     "1374": {
       "fullTitle": "[1374] I Lost My Voice… But This Is Important #teamseas",
       "id": "qwH-11DiHWo",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 1374,
       "shortTitle": "I Lost My Voice… But This Is Important #teamseas",
       "url": "https://www.youtube.com/watch?v=qwH-11DiHWo"
@@ -10683,7 +10683,7 @@
     "1375": {
       "fullTitle": "[1375] “Not a Lock” vs. 10/10 Rated Master Lock",
       "id": "bbYxr7-HZ4E",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1375,
       "shortTitle": "“Not a Lock” vs. 10/10 Rated Master Lock",
       "url": "https://www.youtube.com/watch?v=bbYxr7-HZ4E"
@@ -10707,7 +10707,7 @@
     "1378": {
       "fullTitle": "[1378] Planet Fitness Locks: Faster Without Combination!",
       "id": "hotI2u8OWNI",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1378,
       "shortTitle": "Planet Fitness Locks: Faster Without Combination!",
       "url": "https://www.youtube.com/watch?v=hotI2u8OWNI"
@@ -10731,7 +10731,7 @@
     "1381": {
       "fullTitle": "[1381] Vintage “Secret Service” Master Lock No.1 Picked",
       "id": "1e7yyikJP8E",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1381,
       "shortTitle": "Vintage “Secret Service” Master Lock No.1 Picked",
       "url": "https://www.youtube.com/watch?v=1e7yyikJP8E"
@@ -10747,7 +10747,7 @@
     "1383": {
       "fullTitle": "[1383] Porsche Panamera Turbo Lock Picked",
       "id": "baAavUJx0wo",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1383,
       "shortTitle": "Porsche Panamera Turbo Lock Picked",
       "url": "https://www.youtube.com/watch?v=baAavUJx0wo"
@@ -10787,7 +10787,7 @@
     "1388": {
       "fullTitle": "[1388] The Best Built Deadbolt Ever? Easilok",
       "id": "7Cpq5sPCqKY",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1388,
       "shortTitle": "The Best Built Deadbolt Ever? Easilok",
       "url": "https://www.youtube.com/watch?v=7Cpq5sPCqKY"
@@ -10795,7 +10795,7 @@
     "1389": {
       "fullTitle": "[1389] Opened FASTER Without Combination: 321 Locks Key Lockbok",
       "id": "LlhGQzCu5jY",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1389,
       "shortTitle": "Opened FASTER Without Combination: 321 Locks Key Lockbok",
       "url": "https://www.youtube.com/watch?v=LlhGQzCu5jY"
@@ -10803,7 +10803,7 @@
     "1390": {
       "fullTitle": "[1390] The Hallmarks of a Master Lock: Model 115",
       "id": "3Cpo8S-sC34",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1390,
       "shortTitle": "The Hallmarks of a Master Lock: Model 115",
       "url": "https://www.youtube.com/watch?v=3Cpo8S-sC34"
@@ -10827,7 +10827,7 @@
     "1393": {
       "fullTitle": "[1393] Opened FAST: StopBox Gun “Retention Device”",
       "id": "PbMdNlDcaHs",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1393,
       "shortTitle": "Opened FAST: StopBox Gun “Retention Device”",
       "url": "https://www.youtube.com/watch?v=PbMdNlDcaHs"
@@ -10851,7 +10851,7 @@
     "1396": {
       "fullTitle": "[1396] A Rekeyable Disc Padlock — Abus 24RK/70",
       "id": "APdWVrd3m3k",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1396,
       "shortTitle": "A Rekeyable Disc Padlock — Abus 24RK/70",
       "url": "https://www.youtube.com/watch?v=APdWVrd3m3k"
@@ -10867,7 +10867,7 @@
     "1398": {
       "fullTitle": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick & Gut)",
       "id": "HrV86GqlY8o",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1398,
       "shortTitle": "A Padlock I’d Use: Abus Granit 37RK/80 (Pick & Gut)",
       "url": "https://www.youtube.com/watch?v=HrV86GqlY8o"
@@ -10875,7 +10875,7 @@
     "1399": {
       "fullTitle": "[1399] Amazon’s #1 Best Seller Deadbolt is Junk:  OrangeIOT",
       "id": "2yl-EIEJhgs",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1399,
       "shortTitle": "Amazon’s #1 Best Seller Deadbolt is Junk:  OrangeIOT",
       "url": "https://www.youtube.com/watch?v=2yl-EIEJhgs"
@@ -10907,7 +10907,7 @@
     "1404": {
       "fullTitle": "[1404] Walmart’s Best Bike Lock Picked: Blackburn 9” U-Lock",
       "id": "wqkfB6xMNqQ",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1404,
       "shortTitle": "Walmart’s Best Bike Lock Picked: Blackburn 9” U-Lock",
       "url": "https://www.youtube.com/watch?v=wqkfB6xMNqQ"
@@ -11011,7 +11011,7 @@
     "1418": {
       "fullTitle": "[1418] Master Lock Sent Me a Challenge… Kinda.",
       "id": "7Ob1QiFtKHU",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1418,
       "shortTitle": "Master Lock Sent Me a Challenge… Kinda.",
       "url": "https://www.youtube.com/watch?v=7Ob1QiFtKHU"
@@ -11035,7 +11035,7 @@
     "1421": {
       "fullTitle": "[1421] US Gov’t Says You MUST Use This Lock (CompX Mailbox Lock)",
       "id": "KUau7vVa5pQ",
-      "manufacturer": null,
+      "manufacturer": "CompX",
       "number": 1421,
       "shortTitle": "US Gov’t Says You MUST Use This Lock (CompX Mailbox Lock)",
       "url": "https://www.youtube.com/watch?v=KUau7vVa5pQ"
@@ -11043,7 +11043,7 @@
     "1422": {
       "fullTitle": "[1422] Did I Cheat On This Challenge? (Tamper-Sealed Abus)",
       "id": "xUJtqvYDnkg",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1422,
       "shortTitle": "Did I Cheat On This Challenge? (Tamper-Sealed Abus)",
       "url": "https://www.youtube.com/watch?v=xUJtqvYDnkg"
@@ -11051,7 +11051,7 @@
     "1423": {
       "fullTitle": "[1423] Is This Paperweight Better Than a Master Lock?",
       "id": "ULUz4u5FLYg",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1423,
       "shortTitle": "Is This Paperweight Better Than a Master Lock?",
       "url": "https://www.youtube.com/watch?v=ULUz4u5FLYg"
@@ -11075,7 +11075,7 @@
     "1427": {
       "fullTitle": "[1427] Volkswagen Passat Door Lock Picked (2010 Model Year)",
       "id": "Fv1E9esmsuw",
-      "manufacturer": null,
+      "manufacturer": "ASSA",
       "number": 1427,
       "shortTitle": "Volkswagen Passat Door Lock Picked (2010 Model Year)",
       "url": "https://www.youtube.com/watch?v=Fv1E9esmsuw"
@@ -11099,7 +11099,7 @@
     "1430": {
       "fullTitle": "[1430] My Trick For FAST Warded Lock Opens",
       "id": "MkiN-rXhjL0",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1430,
       "shortTitle": "My Trick For FAST Warded Lock Opens",
       "url": "https://www.youtube.com/watch?v=MkiN-rXhjL0"
@@ -11155,7 +11155,7 @@
     "1438": {
       "fullTitle": "[1438] Better Than Nothing (Barely)…Master Lock Python",
       "id": "mcMIb1XQJVk",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1438,
       "shortTitle": "Better Than Nothing (Barely)…Master Lock Python",
       "url": "https://www.youtube.com/watch?v=mcMIb1XQJVk"
@@ -11179,7 +11179,7 @@
     "1441": {
       "fullTitle": "[1441] Abus Should Import This Lock (37ST/55)",
       "id": "mSf5IeiQVpY",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1441,
       "shortTitle": "Abus Should Import This Lock (37ST/55)",
       "url": "https://www.youtube.com/watch?v=mSf5IeiQVpY"
@@ -11227,7 +11227,7 @@
     "1449": {
       "fullTitle": "[1449] TERRIBLE Master Lock Laminated Combination Lock (Model 179LH)",
       "id": "b3nr9LGl2AA",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1449,
       "shortTitle": "TERRIBLE Master Lock Laminated Combination Lock (Model 179LH)",
       "url": "https://www.youtube.com/watch?v=b3nr9LGl2AA"
@@ -11243,7 +11243,7 @@
     "1451": {
       "fullTitle": "[1451] “Slick” Van Locks: Cut in 18 Seconds",
       "id": "j8gQavMQ7Fg",
-      "manufacturer": null,
+      "manufacturer": "Van Lock",
       "number": 1451,
       "shortTitle": "“Slick” Van Locks: Cut in 18 Seconds",
       "url": "https://www.youtube.com/watch?v=j8gQavMQ7Fg"
@@ -11283,7 +11283,7 @@
     "1456": {
       "fullTitle": "[1456] Picked FAST: Zincker Electronic Doorknob",
       "id": "1zVFJbzCmZk",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1456,
       "shortTitle": "Picked FAST: Zincker Electronic Doorknob",
       "url": "https://www.youtube.com/watch?v=1zVFJbzCmZk"
@@ -11315,7 +11315,7 @@
     "1460": {
       "fullTitle": "[1460] Why I’m THANKFUL For Master Lock… Sometimes",
       "id": "gu97DGx75Xc",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1460,
       "shortTitle": "Why I’m THANKFUL For Master Lock… Sometimes",
       "url": "https://www.youtube.com/watch?v=gu97DGx75Xc"
@@ -11323,7 +11323,7 @@
     "1461": {
       "fullTitle": "[1461] Is This Novelty Lock Better Than EVERY Master Lock?",
       "id": "Bqt0EMKrT7o",
-      "manufacturer": null,
+      "manufacturer": "Master Lock",
       "number": 1461,
       "shortTitle": "Is This Novelty Lock Better Than EVERY Master Lock?",
       "url": "https://www.youtube.com/watch?v=Bqt0EMKrT7o"
@@ -11483,7 +11483,7 @@
     "1483": {
       "fullTitle": "[1483] Lockly’s Self-Randomizing Keypad Smart Lock",
       "id": "KMLyDx_ZAXs",
-      "manufacturer": null,
+      "manufacturer": "DOM",
       "number": 1483,
       "shortTitle": "Lockly’s Self-Randomizing Keypad Smart Lock",
       "url": "https://www.youtube.com/watch?v=KMLyDx_ZAXs"
@@ -11499,7 +11499,7 @@
     "1485": {
       "fullTitle": "[1485] Obsolete Design: WordLock Combination Lock",
       "id": "oCZH4lhEWSE",
-      "manufacturer": null,
+      "manufacturer": "Wordlock",
       "number": 1485,
       "shortTitle": "Obsolete Design: WordLock Combination Lock",
       "url": "https://www.youtube.com/watch?v=oCZH4lhEWSE"
@@ -11507,7 +11507,7 @@
     "1486": {
       "fullTitle": "[1486] Best Prices EVER at Covert Instruments",
       "id": "XOOSOc0BIJs",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1486,
       "shortTitle": "Best Prices EVER at Covert Instruments",
       "url": "https://www.youtube.com/watch?v=XOOSOc0BIJs"
@@ -11523,7 +11523,7 @@
     "1488": {
       "fullTitle": "[1488] Amazon’s Best Selling Deadbolt - Teeho Smart Lock",
       "id": "4qAC7DVw10E",
-      "manufacturer": null,
+      "manufacturer": "BEST",
       "number": 1488,
       "shortTitle": "Amazon’s Best Selling Deadbolt - Teeho Smart Lock",
       "url": "https://www.youtube.com/watch?v=4qAC7DVw10E"
@@ -11555,7 +11555,7 @@
     "1492": {
       "fullTitle": "[1492] The Coolest Lock You’ve Never Heard Of — BIR Seal Lock",
       "id": "aIGhCVqpXMw",
-      "manufacturer": null,
+      "manufacturer": "SEA",
       "number": 1492,
       "shortTitle": "The Coolest Lock You’ve Never Heard Of — BIR Seal Lock",
       "url": "https://www.youtube.com/watch?v=aIGhCVqpXMw"
@@ -11563,7 +11563,7 @@
     "1493": {
       "fullTitle": "[1493] PacLock’s 7-Pin Surprise Picked & Gutted (Model 90A-Pro)",
       "id": "VDkhqoH9jQc",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1493,
       "shortTitle": "PacLock’s 7-Pin Surprise Picked & Gutted (Model 90A-Pro)",
       "url": "https://www.youtube.com/watch?v=VDkhqoH9jQc"
@@ -11571,7 +11571,7 @@
     "1494": {
       "fullTitle": "[1494] Reassembling a PacLock 90A-Pro Padlock",
       "id": "Ea-_CPCfWUY",
-      "manufacturer": null,
+      "manufacturer": "PACLOCK",
       "number": 1494,
       "shortTitle": "Reassembling a PacLock 90A-Pro Padlock",
       "url": "https://www.youtube.com/watch?v=Ea-_CPCfWUY"
@@ -11643,7 +11643,7 @@
     "1503": {
       "fullTitle": "[1503] Police Handcuffs: Flawed, But Good Enough",
       "id": "49l8hQZO5gE",
-      "manufacturer": null,
+      "manufacturer": "Poli",
       "number": 1503,
       "shortTitle": "Police Handcuffs: Flawed, But Good Enough",
       "url": "https://www.youtube.com/watch?v=49l8hQZO5gE"
@@ -11699,7 +11699,7 @@
     "1510": {
       "fullTitle": "[1510] Decoded Fast! New Combination Bike U-Lock (NBYT)",
       "id": "lsr7cGwpZJg",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1510,
       "shortTitle": "Decoded Fast! New Combination Bike U-Lock (NBYT)",
       "url": "https://www.youtube.com/watch?v=lsr7cGwpZJg"
@@ -11755,7 +11755,7 @@
     "1519": {
       "fullTitle": "[1519] “Pick Proof” Tough Guard Padlock… Picked FAST",
       "id": "o6JVvsQcKHw",
-      "manufacturer": null,
+      "manufacturer": "FAS",
       "number": 1519,
       "shortTitle": "“Pick Proof” Tough Guard Padlock… Picked FAST",
       "url": "https://www.youtube.com/watch?v=o6JVvsQcKHw"
@@ -11795,7 +11795,7 @@
     "1524": {
       "fullTitle": "[1524] A Literal Security Hole! (Jin Hao Combination Bike Lock)",
       "id": "wxWwkSq9M0s",
-      "manufacturer": null,
+      "manufacturer": "ERA",
       "number": 1524,
       "shortTitle": "A Literal Security Hole! (Jin Hao Combination Bike Lock)",
       "url": "https://www.youtube.com/watch?v=wxWwkSq9M0s"
@@ -11819,7 +11819,7 @@
     "1527": {
       "fullTitle": "[1527] Abus Bike Lock VISUALLY Decoded!!! (Model 410C)",
       "id": "WuBS3xYfrOo",
-      "manufacturer": null,
+      "manufacturer": "ABUS",
       "number": 1527,
       "shortTitle": "Abus Bike Lock VISUALLY Decoded!!! (Model 410C)",
       "url": "https://www.youtube.com/watch?v=WuBS3xYfrOo"
