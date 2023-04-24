@@ -16,6 +16,15 @@ PLAYLIST_ID = 'PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4'
 TITLE_RE = re.compile(f'\[(\d+)\]\s+(.*)')
 
 
+def guess_manufacturer(title):
+    with open('supporting_data.json') as f:
+        manufacturers = json.load(f)['manufacturers']
+        for manufacturer in manufacturers:
+            for word in title.split(' '):
+                if word.casefold() == manufacturer.casefold():
+                    return manufacturer
+
+
 def extract(item):
     video_id = item['snippet']['resourceId']['videoId']
     full_title = item['snippet']['title']
@@ -24,11 +33,15 @@ def extract(item):
         return
 
     number, short_title = match.groups()
+
+    manufacturer = guess_manufacturer(short_title)
+
     return {
         'id': video_id,
         'number': int(number),
         'fullTitle': full_title,
         'shortTitle': short_title,
+        'manufacturer': manufacturer,
         'url': f'https://www.youtube.com/watch?v={video_id}'
     }
 
