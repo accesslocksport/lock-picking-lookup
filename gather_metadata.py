@@ -13,7 +13,7 @@ import requests
 API_KEY = ''
 
 PLAYLIST_ID = 'PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4'
-TITLE_RE = re.compile(f'\[(\d+)\]\s+(.*)')
+TITLE_RE = re.compile(r'\[(\d+)\]\s+(.*)')
 
 
 def guess_manufacturer(title):
