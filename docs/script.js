@@ -20,7 +20,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
     const queryTokens = query.split(' ')
 
     if (query.length < 3) {
-      _searchTarget.innerText = 'Enter more'
+      _searchTarget.innerHTML = ''
       return
     }
 
@@ -68,13 +68,11 @@ const search = (function () { // eslint-disable-line no-unused-vars
   }
 
   const render = function (result) {
-    const entry = document.createElement('li')
-    entry.classList.add('result')
-
     const link = document.createElement('a')
     link.href = result.url
     link.innerText = result.shortTitle
 
+    const entry = document.createElement('li')
     entry.appendChild(link)
     return entry
   }
