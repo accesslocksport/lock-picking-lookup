@@ -61,11 +61,22 @@ const search = (function () { // eslint-disable-line no-unused-vars
       return [key, value]
     }).sort((entry1, entry2) => entry1[1].score - entry2[1].score).reverse()
 
-    const display = results.map(([number, result]) => {
-      return JSON.stringify([result.score, result.fullTitle]) + '<br />'
+    _searchTarget.innerHTML = ''
+    results.forEach(([number, result]) => {
+      _searchTarget.appendChild(render(result))
     })
+  }
 
-    _searchTarget.innerHTML = JSON.stringify(display)
+  const render = function (result) {
+    const entry = document.createElement('div')
+    entry.classList.add('result')
+
+    const link = document.createElement('a')
+    link.href = result.url
+    link.innerText = result.shortTitle
+
+    entry.appendChild(link)
+    return entry
   }
 
   const init = function (searchInputSelector, resultsListSelector) {
