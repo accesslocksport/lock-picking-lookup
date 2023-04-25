@@ -68,7 +68,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
   }
 
   const render = function (result) {
-    const entry = document.createElement('div')
+    const entry = document.createElement('li')
     entry.classList.add('result')
 
     const link = document.createElement('a')
