@@ -7,7 +7,15 @@ const search = (function () { // eslint-disable-line no-unused-vars
     return response.json()
   }
 
-  const normalise = function (query) {
+  const normaliseQuery = function (query) {
+    return query.split(' ').map(part => {
+      return part.toLowerCase().replace(/^[^\w-]+/i, '').replace(/[^\w]+$/i, '')
+    }).filter(part => {
+      return part.length > 1
+    }).join(' ')
+  }
+
+  const normaliseTitle = function (query) {
     return query.split(' ').map(part => {
       return part.toLowerCase().replace(/[^\w]+$/i, '').replace(/^[^\w]+/i, '')
     }).filter(part => {
@@ -16,8 +24,12 @@ const search = (function () { // eslint-disable-line no-unused-vars
   }
 
   const search = function (query) {
-    query = normalise(query)
-    const queryTokens = query.split(' ')
+    query = normaliseQuery(query)
+    const queryTokens = query.split(' ').filter(token => !token.startsWith('-'))
+    const negativeTokens = query
+      .split(' ')
+      .filter(token => token.startsWith('-') && token.length > 2)
+      .map(token => token.substring(1))
 
     if (query.length < 3) {
       _searchTarget.innerHTML = ''
@@ -55,6 +67,8 @@ const search = (function () { // eslint-disable-line no-unused-vars
     })
 
     const results = Object.entries(_dataset).filter(([key, value]) => {
+      return !negativeTokens.some(token => value.search.includes(token))
+    }).filter(([key, value]) => {
       return scores[key] > 0
     }).map(([key, value]) => {
       value.score = scores[key]
@@ -82,7 +96,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
 
     loadData().then((data) => {
       _dataset = Object.fromEntries(Object.entries(data.dataset).map(([key, value]) => {
-        value.search = normalise(value.shortTitle)
+        value.search = normaliseTitle(value.shortTitle)
         value.searchTokens = value.search.split(' ')
         return [key, value]
       }))
