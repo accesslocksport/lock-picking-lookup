@@ -34,7 +34,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
       }
     })
 
-    // Percentage of full token overlap
+    // Full token existence.
     keys.forEach(key => {
       queryTokens.forEach(queryToken => {
         if (_dataset[key].searchTokens.includes(queryToken)) {
@@ -43,11 +43,29 @@ const search = (function () { // eslint-disable-line no-unused-vars
       })
     })
 
-    const results = Object.entries(_dataset).filter(([key, value]) => {
-      return scores[key] > 0
+    // Partial token existence.
+    keys.forEach(key => {
+      queryTokens.forEach(queryToken => {
+        _dataset[key].searchTokens.forEach(searchToken => {
+          if (searchToken.includes(queryToken)) {
+            scores[key] += 1
+          }
+        })
+      })
     })
 
-    _searchTarget.innerText = JSON.stringify(results)
+    const results = Object.entries(_dataset).filter(([key, value]) => {
+      return scores[key] > 0
+    }).map(([key, value]) => {
+      value.score = scores[key]
+      return [key, value]
+    }).sort((entry1, entry2) => entry1[1].score - entry2[1].score).reverse()
+
+    const display = results.map(([number, result]) => {
+      return JSON.stringify([result.score, result.fullTitle]) + '<br />'
+    })
+
+    _searchTarget.innerHTML = JSON.stringify(display)
   }
 
   const init = function (searchInputSelector, resultsListSelector) {
