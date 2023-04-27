@@ -75,6 +75,11 @@ const search = (function () { // eslint-disable-line no-unused-vars
       return [key, value]
     }).sort((entry1, entry2) => entry1[1].score - entry2[1].score).reverse()
 
+    if (results.length === 0) {
+      _searchTarget.innerHTML = 'Somehow you\'re searching for a lock LPL hasn\'t picked? Try something like "Master Combination" or "1100" or "Kryptonite".'
+      return
+    }
+
     _searchTarget.innerHTML = ''
     results.forEach(([number, result]) => {
       _searchTarget.appendChild(render(result))
