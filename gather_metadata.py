@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import sys
 import time
@@ -10,7 +11,7 @@ import requests
 #   - Create Google Cloud project in https://console.cloud.google.com/
 #   - Enable the YouTube Data API v3
 #   - Create an API key
-API_KEY = ''
+API_KEY = os.environ['API_KEY']
 
 PLAYLIST_ID = 'PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4'
 TITLE_RE = re.compile(r'\[(\d+)\]\s+(.*)')
