@@ -13,8 +13,9 @@ import requests
 #   - Create an API key
 API_KEY = os.environ['API_KEY']
 
-PLAYLIST_ID = 'PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4'
-TITLE_RE = re.compile(r'\[(\d+)\]\s+(.*)')
+PLAYLISTS = {
+    'lpl': ('PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4', re.compile(r'\[(\d+)\]\s+(.*)')),
+}
 
 
 def guess_manufacturer(title):
@@ -26,10 +27,10 @@ def guess_manufacturer(title):
                 return manufacturer
 
 
-def extract(item):
+def extract(item, prefix, playlist_id, title_re):
     video_id = item['snippet']['resourceId']['videoId']
     full_title = item['snippet']['title']
-    match = TITLE_RE.match(full_title)
+    match = title_re.match(full_title)
     if match is None:
         return
 
@@ -43,7 +44,9 @@ def extract(item):
         'fullTitle': full_title,
         'shortTitle': short_title,
         'manufacturer': manufacturer,
-        'url': f'https://www.youtube.com/watch?v={video_id}'
+        'url': f'https://www.youtube.com/watch?v={video_id}',
+        'prefix': prefix,
+        'playlistId': playlist_id
     }
 
 
@@ -52,37 +55,38 @@ def main(page_size=50, sleep=0.1):
 
     url = 'https://youtube.googleapis.com/youtube/v3/playlistItems'
     page_token = None
-    while True:
-        payload = json.loads(
-            requests.get(
-                url,
-                params={
-                    'playlistId': PLAYLIST_ID,
-                    'key': API_KEY,
-                    'maxResults': page_size,
-                    'pageToken': page_token,
-                    'part': 'snippet'
-                },
-                headers={
-                    'Accept': 'application/json'
-                }
-            ).text
-        )
+    for (prefix, (playlist_id, title_re)) in PLAYLISTS.items():
+        while True:
+            payload = json.loads(
+                requests.get(
+                    url,
+                    params={
+                        'playlistId': playlist_id,
+                        'key': API_KEY,
+                        'maxResults': page_size,
+                        'pageToken': page_token,
+                        'part': 'snippet'
+                    },
+                    headers={
+                        'Accept': 'application/json'
+                    }
+                ).text
+            )
 
-        for item in payload['items']:
-            data = extract(item)
-            if data is None:
-                continue
-            dataset[data['number']] = data
+            for item in payload['items']:
+                data = extract(item, prefix, playlist_id, title_re)
+                if data is None:
+                    continue
+                dataset[data['number']] = data
 
-        if payload.get('nextPageToken') is None:
-            break
+            if payload.get('nextPageToken') is None:
+                break
 
-        page_token = payload['nextPageToken']
+            page_token = payload['nextPageToken']
 
-        time.sleep(sleep)
-        sys.stdout.write('.')
-        sys.stdout.flush()
+            time.sleep(sleep)
+            sys.stdout.write('.')
+            sys.stdout.flush()
 
     with open('docs/data/dataset.json', 'w', encoding='utf-8') as f:
         json.dump({'dataset': dataset}, f, sort_keys=True, indent=2, ensure_ascii=False)
