@@ -14,8 +14,8 @@ import requests
 API_KEY = os.environ['API_KEY']
 
 PLAYLISTS = {
-    'lpl': ('PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4', re.compile(r'\[(\d+)\]\s+(.*)')),
     'bb': ('PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy', re.compile(r'\((\d+)\)\s+(.*)')),
+    'lpl': ('PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4', re.compile(r'\[(\d+)\]\s+(.*)')),
 }
 
 
