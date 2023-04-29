@@ -15,6 +15,7 @@ API_KEY = os.environ['API_KEY']
 
 PLAYLISTS = {
     'lpl': ('PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4', re.compile(r'\[(\d+)\]\s+(.*)')),
+    'bb': ('PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy', re.compile(r'\((\d+)\)\s+(.*)')),
 }
 
 
@@ -51,11 +52,13 @@ def extract(item, prefix, playlist_id, title_re):
 
 
 def main(page_size=50, sleep=0.1):
-    dataset = {}
+    dataset = []
 
     url = 'https://youtube.googleapis.com/youtube/v3/playlistItems'
-    page_token = None
     for (prefix, (playlist_id, title_re)) in PLAYLISTS.items():
+        captured_numbers = set()
+        playlist_set = []
+        page_token = None
         while True:
             payload = json.loads(
                 requests.get(
@@ -77,7 +80,10 @@ def main(page_size=50, sleep=0.1):
                 data = extract(item, prefix, playlist_id, title_re)
                 if data is None:
                     continue
-                dataset[data['number']] = data
+                if data['number'] in captured_numbers:
+                    continue
+                playlist_set.append(data)
+                captured_numbers.add(data['number'])
 
             if payload.get('nextPageToken') is None:
                 break
@@ -87,6 +93,8 @@ def main(page_size=50, sleep=0.1):
             time.sleep(sleep)
             sys.stdout.write('.')
             sys.stdout.flush()
+
+        dataset.extend(sorted(playlist_set, key=lambda item: item['number']))
 
     with open('docs/data/dataset.json', 'w', encoding='utf-8') as f:
         json.dump({'dataset': dataset}, f, sort_keys=True, indent=2, ensure_ascii=False)
