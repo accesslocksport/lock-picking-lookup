@@ -81,7 +81,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
     }
 
     _searchTarget.innerHTML = ''
-    results.forEach(([number, result]) => {
+    results.slice(0, 100).forEach(([number, result]) => {
       _searchTarget.appendChild(render(result))
     })
   }
@@ -92,6 +92,7 @@ const search = (function () { // eslint-disable-line no-unused-vars
     link.innerText = result.shortTitle
 
     const entry = document.createElement('li')
+    entry.classList.add(result.prefix)
     entry.appendChild(link)
     return entry
   }

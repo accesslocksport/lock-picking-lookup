@@ -14,6 +14,16 @@
       position: relative;
       left: -10px;
     }
+    li:after {
+      opacity: 50%;
+      margin-left: 10px;
+    }
+    li.lpl:after {
+      content: "[LPL]";
+    }
+    li.bb:after {
+      content: "[BB]";
+    }
     h1 {
       margin-bottom: 0;
       text-align: center;
@@ -25,8 +35,9 @@
 </head>
 <body>
   <a href="about.html" style="float:right; margin-right:1rem; margin-top:0.25rem">about</a>
-  <header>
+  <header style="text-align: center;">
     <h1>LockPickingLookup</h1>
+    <span>Need a hand opening that lock?</span>
   </header>
   <main>
     <input type="text" name="search" id="search-input" placeholder="Enter 3+ characters of a lock name, brand or type...">
