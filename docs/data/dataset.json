@@ -28663,7 +28663,7 @@
     {
       "fullTitle": "[1097] Comically Easy To Pick: ULÄC “Kaiser” Bike Lock",
       "id": "EA5wr3qTVOc",
-      "manufacturer": null,
+      "manufacturer": "ULÄC",
       "number": 1097,
       "playlistId": "PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4",
       "prefix": "lpl",
@@ -28723,7 +28723,7 @@
     {
       "fullTitle": "[1103] NOVICE-LEVEL Attack On ULÄC “Magnum Force” Bike Lock",
       "id": "soyWGLnzeeI",
-      "manufacturer": null,
+      "manufacturer": "ULÄC",
       "number": 1103,
       "playlistId": "PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4",
       "prefix": "lpl",
@@ -28853,7 +28853,7 @@
     {
       "fullTitle": "[1117] A Bicycle “Do Not Disturb” Sign: Uläc Brooklyn U-Lock Picked FAST",
       "id": "vn0xMtHhgSQ",
-      "manufacturer": null,
+      "manufacturer": "ULÄC",
       "number": 1117,
       "playlistId": "PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4",
       "prefix": "lpl",
@@ -32879,6 +32879,16 @@
       "prefix": "lpl",
       "shortTitle": "Hi-Tech Lock w/ Lo-Tech Flaw: Laxre Smart Padlock",
       "url": "https://www.youtube.com/watch?v=xmbgDxBCeDE"
+    },
+    {
+      "fullTitle": "[1533] Fingerprint Safe Opened w/ Juice Carton!!! (Costway)",
+      "id": "xaYgYw2VkPI",
+      "manufacturer": null,
+      "number": 1533,
+      "playlistId": "PLpIvUbO_777y3bRSAKeh4Tq_I9TxbbAm4",
+      "prefix": "lpl",
+      "shortTitle": "Fingerprint Safe Opened w/ Juice Carton!!! (Costway)",
+      "url": "https://www.youtube.com/watch?v=xaYgYw2VkPI"
     }
   ]
 }
