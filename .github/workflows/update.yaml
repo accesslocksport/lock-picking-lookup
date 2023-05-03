@@ -26,7 +26,7 @@ jobs:
           pipenv run python gather_metadata.py
 
       - name: Commit and push if it changed
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         run: |-
           git config user.name github-actions
           git config user.email github-actions@github.com
