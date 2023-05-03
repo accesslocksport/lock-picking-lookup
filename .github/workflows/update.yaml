@@ -25,10 +25,10 @@ jobs:
           pipenv install
           pipenv run python gather_metadata.py
 
-      - uses: actions/checkout@v3
-      - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
           git commit -m "Update Feed: ${timestamp}" || exit 0
